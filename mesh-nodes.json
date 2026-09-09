@@ -1,18 +1,29 @@
 {
-  "retrieved": "2026-09-09T03:15:53.035Z",
+  "retrieved": "2026-09-09T04:08:54.014Z",
   "source": "https://ncmesh.net/map/",
   "bounds": [
-    -78.3,
+    -78.85,
     33.7,
-    -77.4,
-    34.7
+    -77.15,
+    35.05
   ],
+  "area": "Jacksonville to the North Carolina–South Carolina border",
   "checked": [
-    "https://meshmap.net/",
-    "https://meshtastic.liamcottle.net/",
     "https://ncmesh.net/map/"
   ],
   "nodes": [
+    {
+      "id": "!16cfa1c4",
+      "name": "K1TTL (Station G2)",
+      "xy": [
+        -77.3521408,
+        34.5178112
+      ],
+      "seen": "2026-09-09T03:13:55.809Z",
+      "position": "2026-09-09T03:13:55.807Z",
+      "precision": 15,
+      "role": "CLIENT"
+    },
     {
       "id": "!63718199",
       "name": "K4IRV-7",
@@ -80,7 +91,7 @@
         -78.1058048,
         34.3015424
       ],
-      "seen": "2026-09-09T03:06:56.793Z",
+      "seen": "2026-09-09T04:06:57.020Z",
       "position": "2026-08-28T16:08:29.331Z",
       "precision": null,
       "role": "CLIENT_MUTE"
