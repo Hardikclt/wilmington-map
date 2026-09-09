@@ -1,17 +1,725 @@
 {
-  "retrieved": "2026-09-09T04:08:54.014Z",
+  "retrieved": "2026-09-09T04:35:44.151Z",
   "source": "https://ncmesh.net/map/",
   "bounds": [
-    -78.85,
-    33.7,
-    -77.15,
-    35.05
+    -84.4,
+    33.8,
+    -75.4,
+    36.65
   ],
-  "area": "Jacksonville to the North Carolina–South Carolina border",
+  "area": "North Carolina and nearby border areas (bounding rectangle)",
   "checked": [
     "https://ncmesh.net/map/"
   ],
   "nodes": [
+    {
+      "id": "!a20a1010",
+      "name": "Battleground [ncmesh.net]",
+      "xy": [
+        -79.8621696,
+        36.110336
+      ],
+      "seen": "2026-09-09T04:32:00.506Z",
+      "position": "2025-11-22T13:40:47.700Z",
+      "precision": 14,
+      "role": "CLIENT"
+    },
+    {
+      "id": "!433ac930",
+      "name": "BOX MQTT GW c930 [NCmesh.net]",
+      "xy": [
+        -80.838656,
+        35.422208
+      ],
+      "seen": "2026-09-09T04:34:35.524Z",
+      "position": "2025-12-10T17:45:01.269Z",
+      "precision": 16,
+      "role": "CLIENT"
+    },
+    {
+      "id": "!43561ee8",
+      "name": "CLT High Rise 1ee8 [ncmesh.net]",
+      "xy": [
+        -80.8517632,
+        35.2256
+      ],
+      "seen": "2026-09-09T04:05:52.270Z",
+      "position": "2026-09-09T03:05:40.940Z",
+      "precision": 15,
+      "role": "ROUTER"
+    },
+    {
+      "id": "!a20a1950",
+      "name": "PTI [ncmesh.net]",
+      "xy": [
+        -79.9408128,
+        36.110336
+      ],
+      "seen": "2026-09-09T04:32:00.509Z",
+      "position": "2026-09-09T04:03:47.925Z",
+      "precision": null,
+      "role": "CLIENT"
+    },
+    {
+      "id": "!a2e9724c",
+      "name": "🗼4CL Home Relay [ncmesh.net]",
+      "xy": [
+        -79.8416896,
+        36.1160704
+      ],
+      "seen": "2026-09-09T04:29:19.815Z",
+      "position": "2026-09-08T21:29:14.604Z",
+      "precision": 14,
+      "role": null
+    },
+    {
+      "id": "!6c86650",
+      "name": "MBinNC TLora 6650 [NCMesh.net]",
+      "xy": [
+        -79.265792,
+        36.0644608
+      ],
+      "seen": "2026-09-09T04:04:06.537Z",
+      "position": "2026-09-09T04:04:06.536Z",
+      "precision": null,
+      "role": "CLIENT_MUTE"
+    },
+    {
+      "id": "!ddebb802",
+      "name": "MBinNC Env Rak4631 b802 [NCMesh.net]",
+      "xy": [
+        -79.265792,
+        36.0644608
+      ],
+      "seen": "2026-09-09T00:58:35.291Z",
+      "position": "2026-09-06T18:32:18.367Z",
+      "precision": 15,
+      "role": "CLIENT_MUTE"
+    },
+    {
+      "id": "!a2e97b1c",
+      "name": "have more kale",
+      "xy": [
+        -78.5982712,
+        35.5960694
+      ],
+      "seen": "2026-09-08T12:03:36.680Z",
+      "position": "2025-08-04T17:04:33.597Z",
+      "precision": 32,
+      "role": "ROUTER"
+    },
+    {
+      "id": "!435a8364",
+      "name": "ITX TSupreme 8364 [NCMesh.net]",
+      "xy": [
+        -79.265792,
+        36.0906752
+      ],
+      "seen": "2026-09-09T04:33:20.700Z",
+      "position": "2026-09-08T16:27:22.197Z",
+      "precision": 15,
+      "role": "CLIENT"
+    },
+    {
+      "id": "!78f28cd5",
+      "name": "MBinNC Mobile T114 8cd5 [NCMesh.net]",
+      "xy": [
+        -79.265792,
+        36.0644608
+      ],
+      "seen": "2026-09-05T22:37:56.423Z",
+      "position": "2026-09-05T19:33:14.142Z",
+      "precision": null,
+      "role": "CLIENT_MUTE"
+    },
+    {
+      "id": "!b03d66dc",
+      "name": "HDF Base [Unmonitored][NCMesh.net]",
+      "xy": [
+        -78.6169856,
+        36.0448
+      ],
+      "seen": "2026-09-09T04:08:41.921Z",
+      "position": "2026-09-09T04:00:52.924Z",
+      "precision": 13,
+      "role": null
+    },
+    {
+      "id": "!43560730",
+      "name": "JJS MT 03",
+      "xy": [
+        -78.9184512,
+        35.0355456
+      ],
+      "seen": "2026-09-09T04:29:20.317Z",
+      "position": "2026-09-09T04:29:20.316Z",
+      "precision": null,
+      "role": "CLIENT_MUTE"
+    },
+    {
+      "id": "!1d09666",
+      "name": "MBinNC Mobile T114 9666 [NCMesh.net]",
+      "xy": [
+        -79.265792,
+        36.0644608
+      ],
+      "seen": "2026-09-09T03:45:27.848Z",
+      "position": "2026-09-09T02:03:10.009Z",
+      "precision": null,
+      "role": "CLIENT"
+    },
+    {
+      "id": "!e39fd206",
+      "name": "JJS MT 03r",
+      "xy": [
+        -78.9250048,
+        35.0420992
+      ],
+      "seen": "2026-09-09T04:29:20.314Z",
+      "position": "2026-09-09T03:46:33.956Z",
+      "precision": null,
+      "role": "CLIENT"
+    },
+    {
+      "id": "!a0cc2c6c",
+      "name": "Cundari Farms [ncmesh.net]",
+      "xy": [
+        -81.2056576,
+        34.89792
+      ],
+      "seen": "2026-09-09T04:01:47.896Z",
+      "position": "2026-09-09T04:01:47.894Z",
+      "precision": 15,
+      "role": "CLIENT"
+    },
+    {
+      "id": "!29fedde5",
+      "name": "Davidson College - Solar 1 [ncmesh.net]",
+      "xy": [
+        -80.8189952,
+        35.520512
+      ],
+      "seen": "2026-09-09T04:01:55.945Z",
+      "position": "2026-09-09T04:01:55.944Z",
+      "precision": null,
+      "role": "CLIENT"
+    },
+    {
+      "id": "!b03cf6b4",
+      "name": "HighPoint1",
+      "xy": [
+        -79.9801344,
+        35.9923712
+      ],
+      "seen": "2026-09-09T04:18:21.854Z",
+      "position": "2026-09-09T04:18:21.853Z",
+      "precision": 14,
+      "role": "CLIENT"
+    },
+    {
+      "id": "!a4ddec24",
+      "name": "KholdFuzion MQTT Gateway",
+      "xy": [
+        -80.7618858,
+        34.9578416
+      ],
+      "seen": "2026-09-09T04:01:27.104Z",
+      "position": "2026-09-09T04:01:27.103Z",
+      "precision": null,
+      "role": "CLIENT"
+    },
+    {
+      "id": "!42ac74fa",
+      "name": "KC4 Tag EDC | KC4KM",
+      "xy": [
+        -80.6879232,
+        35.1797248
+      ],
+      "seen": "2026-09-09T04:33:20.161Z",
+      "position": "2026-09-09T04:09:21.357Z",
+      "precision": 15,
+      "role": "CLIENT"
+    },
+    {
+      "id": "!c4fc24a8",
+      "name": "MBinNC Solar 2 Rak 24a8 [NCMesh.net]",
+      "xy": [
+        -79.265792,
+        36.0644608
+      ],
+      "seen": "2026-09-09T02:59:55.696Z",
+      "position": "2026-09-09T01:53:17.479Z",
+      "precision": null,
+      "role": null
+    },
+    {
+      "id": "!d4460af7",
+      "name": "Hibriten Mtn",
+      "xy": [
+        -81.5005696,
+        35.8875136
+      ],
+      "seen": "2026-09-09T04:26:53.832Z",
+      "position": "2026-09-09T04:26:53.831Z",
+      "precision": null,
+      "role": "ROUTER"
+    },
+    {
+      "id": "!b2a6fcf8",
+      "name": "MBinNC Hv4 Attic fcf8 [NCMesh.net]",
+      "xy": [
+        -79.265792,
+        36.0644608
+      ],
+      "seen": "2026-09-09T04:33:39.091Z",
+      "position": "2026-09-09T03:46:27.536Z",
+      "precision": 15,
+      "role": "CLIENT"
+    },
+    {
+      "id": "!ba6a991c",
+      "name": "KM4DZO-Aaron-Home",
+      "xy": [
+        -78.7873792,
+        35.586048
+      ],
+      "seen": "2026-09-09T02:18:39.347Z",
+      "position": "2026-09-08T20:29:23.028Z",
+      "precision": null,
+      "role": "CLIENT"
+    },
+    {
+      "id": "!9e9a930c",
+      "name": "Packet-Medic-1",
+      "xy": [
+        -81.4874624,
+        35.9530496
+      ],
+      "seen": "2026-09-05T22:25:13.882Z",
+      "position": "2026-09-01T11:39:55.659Z",
+      "precision": null,
+      "role": "CLIENT"
+    },
+    {
+      "id": "!9e77a148",
+      "name": "Meshtastic a148",
+      "xy": [
+        -78.8660224,
+        35.6646912
+      ],
+      "seen": "2026-09-09T03:45:08.445Z",
+      "position": "2026-09-08T23:24:17.813Z",
+      "precision": null,
+      "role": "CLIENT"
+    },
+    {
+      "id": "!17611dc5",
+      "name": "attic111_4f9c",
+      "xy": [
+        -78.8791296,
+        35.782656
+      ],
+      "seen": "2026-09-09T03:45:07.787Z",
+      "position": "2026-09-08T23:35:17.209Z",
+      "precision": null,
+      "role": null
+    },
+    {
+      "id": "!a6962530",
+      "name": "TminusTwo Attic 🏠",
+      "xy": [
+        -78.9315584,
+        35.8875136
+      ],
+      "seen": "2026-09-09T04:17:34.898Z",
+      "position": "2026-09-09T04:17:34.896Z",
+      "precision": 13,
+      "role": "CLIENT"
+    },
+    {
+      "id": "!ba51039d",
+      "name": "MBinNC MuziUno 039d [NCMesh.net]",
+      "xy": [
+        -79.265792,
+        36.0906752
+      ],
+      "seen": "2026-09-09T02:27:44.304Z",
+      "position": "2026-09-09T02:27:44.303Z",
+      "precision": null,
+      "role": "CLIENT_MUTE"
+    },
+    {
+      "id": "!6c72f604",
+      "name": "Woodfin 01",
+      "xy": [
+        -82.5884672,
+        35.6384768
+      ],
+      "seen": "2026-09-09T03:10:24.002Z",
+      "position": "2026-01-17T04:19:03.690Z",
+      "precision": null,
+      "role": "CLIENT"
+    },
+    {
+      "id": "!cb92791b",
+      "name": "Uska RAK1",
+      "xy": [
+        -80.8321024,
+        35.4025472
+      ],
+      "seen": "2026-09-09T03:58:54.011Z",
+      "position": "2026-09-09T03:58:54.010Z",
+      "precision": null,
+      "role": "CLIENT_MUTE"
+    },
+    {
+      "id": "!7c5cc3f0",
+      "name": "Meshtastic Apex",
+      "xy": [
+        -78.8660224,
+        35.7433344
+      ],
+      "seen": "2026-09-09T03:51:07.970Z",
+      "position": "2026-09-09T03:51:07.968Z",
+      "precision": 14,
+      "role": null
+    },
+    {
+      "id": "!a20afe14",
+      "name": "Montford Station G2 [ncmesh.net]",
+      "xy": [
+        -82.5713106,
+        35.6014177
+      ],
+      "seen": "2026-09-09T04:34:55.100Z",
+      "position": "2026-09-09T04:33:28.677Z",
+      "precision": null,
+      "role": null
+    },
+    {
+      "id": "!a6962670",
+      "name": "MBinNC Mobile 6 v4 2670 [NCMesh.net]",
+      "xy": [
+        -79.265792,
+        36.0644608
+      ],
+      "seen": "2026-09-09T03:45:07.694Z",
+      "position": "2026-09-09T01:24:48.348Z",
+      "precision": null,
+      "role": "CLIENT_MUTE"
+    },
+    {
+      "id": "!2e5f71fc",
+      "name": "🤖GBOT Greensboro, NC",
+      "xy": [
+        -79.8425088,
+        36.1168896
+      ],
+      "seen": "2026-09-09T03:51:34.373Z",
+      "position": "2026-09-09T01:05:50.670Z",
+      "precision": null,
+      "role": "CLIENT_MUTE"
+    },
+    {
+      "id": "!16c3f644",
+      "name": "Repeater",
+      "xy": [
+        -78.7349504,
+        35.7433344
+      ],
+      "seen": "2026-09-09T04:01:35.478Z",
+      "position": "2026-09-03T06:11:47.830Z",
+      "precision": null,
+      "role": "CLIENT"
+    },
+    {
+      "id": "!a8923b66",
+      "name": "Solar Roof Node 3b66",
+      "xy": [
+        -80.8321024,
+        35.4287616
+      ],
+      "seen": "2026-09-09T04:31:30.231Z",
+      "position": "2026-09-09T02:24:32.019Z",
+      "precision": null,
+      "role": null
+    },
+    {
+      "id": "!75c800c8",
+      "name": "ID:10T Tech Base",
+      "xy": [
+        -80.60928,
+        35.3632256
+      ],
+      "seen": "2026-09-09T03:45:08.416Z",
+      "position": "2026-09-08T19:16:54.108Z",
+      "precision": null,
+      "role": "CLIENT"
+    },
+    {
+      "id": "!cbd2c12",
+      "name": "Echo Base",
+      "xy": [
+        -82.5621921,
+        35.5904738
+      ],
+      "seen": "2026-09-09T04:30:10.548Z",
+      "position": "2026-08-07T21:36:43.311Z",
+      "precision": null,
+      "role": null
+    },
+    {
+      "id": "!6984d1e4",
+      "name": "valh-mqtt-gw",
+      "xy": [
+        -78.5645568,
+        35.7302272
+      ],
+      "seen": "2026-09-09T04:22:41.599Z",
+      "position": "2026-09-01T11:39:55.272Z",
+      "precision": null,
+      "role": null
+    },
+    {
+      "id": "!a2ebd258",
+      "name": "PGDeskd258",
+      "xy": [
+        -79.7507584,
+        35.9858176
+      ],
+      "seen": "2026-09-09T03:48:01.071Z",
+      "position": "2026-04-17T22:42:16.567Z",
+      "precision": 15,
+      "role": null
+    },
+    {
+      "id": "!16ced090",
+      "name": "HallFletcher-Station",
+      "xy": [
+        -82.5491456,
+        35.5729408
+      ],
+      "seen": "2026-09-09T04:25:37.534Z",
+      "position": "2026-09-09T01:10:21.644Z",
+      "precision": null,
+      "role": "CLIENT"
+    },
+    {
+      "id": "!4c5b564",
+      "name": "AtticBoy",
+      "xy": [
+        -80.8583168,
+        35.4811904
+      ],
+      "seen": "2026-09-09T01:55:00.811Z",
+      "position": "2026-09-08T03:37:51.964Z",
+      "precision": null,
+      "role": "CLIENT"
+    },
+    {
+      "id": "!3192dc46",
+      "name": "Atlas-dc46",
+      "xy": [
+        -79.9731015,
+        36.3981661
+      ],
+      "seen": "2026-09-08T20:40:18.472Z",
+      "position": "2026-05-27T16:02:29.634Z",
+      "precision": null,
+      "role": "CLIENT"
+    },
+    {
+      "id": "!da8bf77c",
+      "name": "ITX Vis3 T190 f77c [NCMesh.net]",
+      "xy": [
+        -79.265792,
+        36.0906752
+      ],
+      "seen": "2026-09-09T03:48:26.749Z",
+      "position": "2026-09-09T03:48:26.748Z",
+      "precision": null,
+      "role": "CLIENT_MUTE"
+    },
+    {
+      "id": "!54a81095",
+      "name": "28787 Mesh Router",
+      "xy": [
+        -82.5622528,
+        35.71712
+      ],
+      "seen": "2026-09-09T00:46:13.013Z",
+      "position": "2026-09-07T21:44:07.848Z",
+      "precision": null,
+      "role": "ROUTER"
+    },
+    {
+      "id": "!eeb826a4",
+      "name": "RX1",
+      "xy": [
+        -82.5491456,
+        35.5729408
+      ],
+      "seen": "2026-09-09T03:47:00.577Z",
+      "position": "2026-08-25T12:16:31.174Z",
+      "precision": null,
+      "role": "CLIENT_MUTE"
+    },
+    {
+      "id": "!52e5f1e",
+      "name": "MBinNC SolarXiao+ 5f1e [NCMesh.net]",
+      "xy": [
+        -79.265792,
+        36.0644608
+      ],
+      "seen": "2026-09-09T04:04:44.114Z",
+      "position": "2026-09-09T04:04:44.113Z",
+      "precision": null,
+      "role": "CLIENT"
+    },
+    {
+      "id": "!c7446910",
+      "name": "godpole1969",
+      "xy": [
+        -80.7776256,
+        35.2047104
+      ],
+      "seen": "2026-09-09T04:34:14.061Z",
+      "position": "2026-09-03T14:25:19.677Z",
+      "precision": 15,
+      "role": "CLIENT"
+    },
+    {
+      "id": "!ddc2d37e",
+      "name": "Hamilte10",
+      "xy": [
+        -80.7665664,
+        35.2059392
+      ],
+      "seen": "2026-09-09T02:36:37.138Z",
+      "position": "2026-09-09T02:36:37.137Z",
+      "precision": null,
+      "role": "CLIENT"
+    },
+    {
+      "id": "!433c3dec",
+      "name": "InvisibleBob-Home",
+      "xy": [
+        -78.6890752,
+        35.618816
+      ],
+      "seen": "2026-09-09T03:40:13.839Z",
+      "position": "2026-09-09T03:39:36.257Z",
+      "precision": 15,
+      "role": "CLIENT"
+    },
+    {
+      "id": "!acaab33c",
+      "name": "Realmlabs",
+      "xy": [
+        -78.7218432,
+        35.6253696
+      ],
+      "seen": "2026-09-09T03:08:18.778Z",
+      "position": "2026-09-08T17:30:26.310Z",
+      "precision": null,
+      "role": "CLIENT_MUTE"
+    },
+    {
+      "id": "!409fc94",
+      "name": "BeaverdamRed",
+      "xy": [
+        -82.509824,
+        35.6384768
+      ],
+      "seen": "2026-09-02T10:18:44.308Z",
+      "position": "2026-04-10T17:03:53.007Z",
+      "precision": null,
+      "role": null
+    },
+    {
+      "id": "!9e75b958",
+      "name": "dagomor_attic",
+      "xy": [
+        -78.4072704,
+        35.782656
+      ],
+      "seen": "2026-09-09T03:45:08.387Z",
+      "position": "2026-09-09T03:21:15.276Z",
+      "precision": null,
+      "role": null
+    },
+    {
+      "id": "!f8d0a80a",
+      "name": "LN4CY Base Station",
+      "xy": [
+        -78.472207,
+        35.933098
+      ],
+      "seen": "2026-09-08T16:00:00.430Z",
+      "position": "2026-07-05T23:52:27.318Z",
+      "precision": 14,
+      "role": "CLIENT"
+    },
+    {
+      "id": "!9eeb2a10",
+      "name": "Eugene 2a10",
+      "xy": [
+        -80.871424,
+        35.3107968
+      ],
+      "seen": "2026-09-09T04:34:35.527Z",
+      "position": "2026-09-09T04:34:35.526Z",
+      "precision": null,
+      "role": "CLIENT_MUTE"
+    },
+    {
+      "id": "!699c8c8c",
+      "name": "Meshtastic 8c8c",
+      "xy": [
+        -79.9277056,
+        36.1496576
+      ],
+      "seen": "2026-09-09T00:34:51.749Z",
+      "position": "2026-08-28T01:39:03.702Z",
+      "precision": null,
+      "role": "CLIENT"
+    },
+    {
+      "id": "!9e7630c8",
+      "name": "WurstHaus",
+      "xy": [
+        -80.7796736,
+        35.192832
+      ],
+      "seen": "2026-09-09T04:34:12.827Z",
+      "position": "2026-09-09T04:30:41.573Z",
+      "precision": 14,
+      "role": "CLIENT"
+    },
+    {
+      "id": "!da7576ec",
+      "name": "Ocracoke Cigars",
+      "xy": [
+        -75.9758848,
+        35.1207424
+      ],
+      "seen": "2026-09-09T03:45:08.932Z",
+      "position": "2026-09-09T03:39:45.966Z",
+      "precision": 15,
+      "role": "CLIENT"
+    },
+    {
+      "id": "!a2c6500b",
+      "name": "wolverine 2 🦡",
+      "xy": [
+        -78.598255,
+        35.59631
+      ],
+      "seen": "2026-09-08T12:08:44.937Z",
+      "position": "2026-09-08T12:08:44.936Z",
+      "precision": null,
+      "role": "CLIENT"
+    },
     {
       "id": "!16cfa1c4",
       "name": "K1TTL (Station G2)",
@@ -19,10 +727,1390 @@
         -77.3521408,
         34.5178112
       ],
-      "seen": "2026-09-09T03:13:55.809Z",
-      "position": "2026-09-09T03:13:55.807Z",
+      "seen": "2026-09-09T04:13:55.792Z",
+      "position": "2026-09-09T04:13:55.791Z",
       "precision": 15,
       "role": "CLIENT"
+    },
+    {
+      "id": "!2ecb5f8",
+      "name": "Wes Meshtastic b5f8",
+      "xy": [
+        -78.8671219,
+        35.7675455
+      ],
+      "seen": "2026-09-09T03:24:52.566Z",
+      "position": "2026-08-04T11:31:11.610Z",
+      "precision": null,
+      "role": "CLIENT"
+    },
+    {
+      "id": "!99ba9864",
+      "name": "📱4CL T-Deck [ncmesh.net]",
+      "xy": [
+        -79.84128,
+        36.11648
+      ],
+      "seen": "2026-09-09T04:09:15.106Z",
+      "position": "2026-09-09T01:26:39.973Z",
+      "precision": null,
+      "role": "CLIENT_MUTE"
+    },
+    {
+      "id": "!f079d614",
+      "name": "GypsyNode1 [NCMesh.net]",
+      "xy": [
+        -78.3024128,
+        35.9923712
+      ],
+      "seen": "2026-09-09T01:24:12.693Z",
+      "position": "2026-08-30T12:53:36.691Z",
+      "precision": null,
+      "role": "CLIENT"
+    },
+    {
+      "id": "!cdc760d0",
+      "name": "Kernersville NC Solar 60d0",
+      "xy": [
+        -80.1308672,
+        36.077568
+      ],
+      "seen": "2026-09-09T03:55:15.445Z",
+      "position": "2026-09-08T08:55:09.086Z",
+      "precision": null,
+      "role": "CLIENT"
+    },
+    {
+      "id": "!756f9724",
+      "name": "smkelly",
+      "xy": [
+        -78.7873792,
+        35.6646912
+      ],
+      "seen": "2026-09-09T04:28:26.803Z",
+      "position": "2026-09-09T04:28:26.801Z",
+      "precision": 14,
+      "role": null
+    },
+    {
+      "id": "!1124fca4",
+      "name": "🦊1",
+      "xy": [
+        -81.3094533,
+        35.2329866
+      ],
+      "seen": "2026-09-09T04:34:38.657Z",
+      "position": "2026-09-09T04:34:38.656Z",
+      "precision": 15,
+      "role": "CLIENT"
+    },
+    {
+      "id": "!4a57d923",
+      "name": "Heart_of_Gold_42",
+      "xy": [
+        -82.6015744,
+        35.5729408
+      ],
+      "seen": "2026-09-09T02:53:27.477Z",
+      "position": "2026-05-16T11:50:42.287Z",
+      "precision": null,
+      "role": "CLIENT"
+    },
+    {
+      "id": "!2b95ca85",
+      "name": "Aether-ca85",
+      "xy": [
+        -79.7267968,
+        36.4627968
+      ],
+      "seen": "2026-09-09T03:45:08.288Z",
+      "position": "2026-06-13T20:11:44.260Z",
+      "precision": null,
+      "role": "CLIENT"
+    },
+    {
+      "id": "!2ee4ac8",
+      "name": "4CL Heltec V3 [cc-mesh.net]",
+      "xy": [
+        -76.8032768,
+        34.7029504
+      ],
+      "seen": "2026-09-09T03:45:08.432Z",
+      "position": "2026-09-08T23:17:02.562Z",
+      "precision": null,
+      "role": null
+    },
+    {
+      "id": "!9e77e0e8",
+      "name": "SHC",
+      "xy": [
+        -75.7202944,
+        36.0054784
+      ],
+      "seen": "2026-09-09T04:32:06.905Z",
+      "position": "2026-04-28T17:04:55.719Z",
+      "precision": null,
+      "role": "CLIENT_MUTE"
+    },
+    {
+      "id": "!9e78e6f4",
+      "name": "CH Solar Repeater ",
+      "xy": [
+        -75.7202944,
+        36.0054784
+      ],
+      "seen": "2026-09-09T03:01:15.664Z",
+      "position": "2026-09-09T00:54:42.773Z",
+      "precision": null,
+      "role": "CLIENT"
+    },
+    {
+      "id": "!bd189941",
+      "name": "Medium Blue Node",
+      "xy": [
+        -82.5884672,
+        35.586048
+      ],
+      "seen": "2026-09-08T21:07:52.624Z",
+      "position": "2026-09-08T21:07:52.623Z",
+      "precision": null,
+      "role": "CLIENT"
+    },
+    {
+      "id": "!2eac3d4",
+      "name": "Golf",
+      "xy": [
+        -80.6383616,
+        34.9442048
+      ],
+      "seen": "2026-09-09T04:33:22.436Z",
+      "position": "2026-09-09T04:33:22.435Z",
+      "precision": null,
+      "role": "CLIENT"
+    },
+    {
+      "id": "!7c5b09a0",
+      "name": "HomeBase87",
+      "xy": [
+        -82.509824,
+        35.5074048
+      ],
+      "seen": "2026-09-09T03:59:29.048Z",
+      "position": "2026-09-09T03:43:32.853Z",
+      "precision": null,
+      "role": "CLIENT"
+    },
+    {
+      "id": "!6984c27c",
+      "name": "JT-Base",
+      "xy": [
+        -79.888384,
+        36.110336
+      ],
+      "seen": "2026-09-09T04:34:54.862Z",
+      "position": "2026-09-09T03:39:06.550Z",
+      "precision": 14,
+      "role": "CLIENT"
+    },
+    {
+      "id": "!46936d89",
+      "name": "MBinNC Mobile 8 T1K 6d89 [NCMesh.net]",
+      "xy": [
+        -79.2625152,
+        36.0677376
+      ],
+      "seen": "2026-09-09T03:38:24.451Z",
+      "position": "2026-09-09T03:37:31.197Z",
+      "precision": null,
+      "role": "CLIENT_MUTE"
+    },
+    {
+      "id": "!7cac6e58",
+      "name": "SBF Relay",
+      "xy": [
+        -80.6617088,
+        34.9437952
+      ],
+      "seen": "2026-09-09T02:41:04.520Z",
+      "position": "2026-04-12T13:46:30.783Z",
+      "precision": null,
+      "role": null
+    },
+    {
+      "id": "!698325ec",
+      "name": "T's Mesh 2",
+      "xy": [
+        -76.283904,
+        36.3331584
+      ],
+      "seen": "2026-09-09T03:45:07.946Z",
+      "position": "2026-09-09T02:42:15.179Z",
+      "precision": 12,
+      "role": null
+    },
+    {
+      "id": "!9e7691fc",
+      "name": "KD2QQM-10",
+      "xy": [
+        -75.7354496,
+        36.0132608
+      ],
+      "seen": "2026-09-09T04:01:37.784Z",
+      "position": "2026-09-09T04:01:37.783Z",
+      "precision": null,
+      "role": "CLIENT_MUTE"
+    },
+    {
+      "id": "!97058f38",
+      "name": "MBinNC Vis E290 2 8f38 [NCMesh.net]",
+      "xy": [
+        -79.265792,
+        36.0644608
+      ],
+      "seen": "2026-09-08T19:29:05.771Z",
+      "position": "2026-09-07T16:18:39.309Z",
+      "precision": null,
+      "role": "CLIENT_MUTE"
+    },
+    {
+      "id": "!4ef06128",
+      "name": "smkelly",
+      "xy": [
+        -78.7873792,
+        35.6646912
+      ],
+      "seen": "2026-09-09T02:52:21.694Z",
+      "position": "2026-09-09T01:37:30.332Z",
+      "precision": null,
+      "role": "CLIENT"
+    },
+    {
+      "id": "!766ee164",
+      "name": "wolverine 1 🦡 (NCMesh.net)",
+      "xy": [
+        -78.8854019,
+        35.8561264
+      ],
+      "seen": "2026-09-08T14:59:55.400Z",
+      "position": "2026-09-08T14:59:55.399Z",
+      "precision": 15,
+      "role": "CLIENT"
+    },
+    {
+      "id": "!32fcc32c",
+      "name": "Derwood Mobile",
+      "xy": [
+        -77.8043392,
+        35.8612992
+      ],
+      "seen": "2026-09-09T04:19:14.582Z",
+      "position": "2026-09-02T09:45:01.073Z",
+      "precision": 14,
+      "role": "CLIENT"
+    },
+    {
+      "id": "!be79034",
+      "name": "Repeater 9034",
+      "xy": [
+        -82.6540032,
+        35.520512
+      ],
+      "seen": "2026-09-09T04:07:43.348Z",
+      "position": "2026-09-09T04:07:43.347Z",
+      "precision": null,
+      "role": "CLIENT"
+    },
+    {
+      "id": "!c7a64cf",
+      "name": "STS-MT-S1",
+      "xy": [
+        -82.3918592,
+        35.5729408
+      ],
+      "seen": "2026-09-09T02:18:41.680Z",
+      "position": "2026-09-08T18:08:54.776Z",
+      "precision": 13,
+      "role": "CLIENT"
+    },
+    {
+      "id": "!801d9419",
+      "name": "Basecamp Voyager",
+      "xy": [
+        -82.509824,
+        35.454976
+      ],
+      "seen": "2026-09-09T03:54:13.879Z",
+      "position": "2026-09-09T03:54:13.878Z",
+      "precision": null,
+      "role": null
+    },
+    {
+      "id": "!28eec90",
+      "name": "Chainsaw",
+      "xy": [
+        -82.182144,
+        36.0972288
+      ],
+      "seen": "2026-09-09T04:34:14.058Z",
+      "position": "2026-09-09T03:16:58.385Z",
+      "precision": null,
+      "role": "CLIENT"
+    },
+    {
+      "id": "!45bda7b0",
+      "name": "bml-t1000e",
+      "xy": [
+        -78.6694144,
+        35.3107968
+      ],
+      "seen": "2026-09-06T09:23:19.256Z",
+      "position": "2026-09-06T08:45:36.206Z",
+      "precision": 14,
+      "role": "CLIENT_MUTE"
+    },
+    {
+      "id": "!1df967a6",
+      "name": "KG4EDY Portable",
+      "xy": [
+        -78.6169856,
+        36.306944
+      ],
+      "seen": "2026-09-09T01:43:11.467Z",
+      "position": "2026-09-09T01:43:11.466Z",
+      "precision": 13,
+      "role": "CLIENT"
+    },
+    {
+      "id": "!435bbebc",
+      "name": "MBinNC TBeamSup bebc [NCMesh.net]",
+      "xy": [
+        -79.265792,
+        36.0644608
+      ],
+      "seen": "2026-09-09T03:45:07.965Z",
+      "position": "2026-09-09T01:56:47.063Z",
+      "precision": null,
+      "role": "CLIENT_MUTE"
+    },
+    {
+      "id": "!cd193aa",
+      "name": "dadisdoomscrolling [ncmesh.net]",
+      "xy": [
+        -80.8255488,
+        35.487744
+      ],
+      "seen": "2026-09-09T04:25:52.569Z",
+      "position": "2026-09-09T04:25:52.568Z",
+      "precision": 15,
+      "role": "CLIENT"
+    },
+    {
+      "id": "!9ea1fa68",
+      "name": "Airlink Roof",
+      "xy": [
+        -79.7048832,
+        35.848192
+      ],
+      "seen": "2026-09-09T03:44:40.547Z",
+      "position": "2026-09-08T19:42:19.040Z",
+      "precision": null,
+      "role": "CLIENT"
+    },
+    {
+      "id": "!34291463",
+      "name": "Meshtastic Airlink",
+      "xy": [
+        -79.7048832,
+        35.848192
+      ],
+      "seen": "2026-09-09T03:44:40.550Z",
+      "position": "2026-09-09T01:49:45.846Z",
+      "precision": null,
+      "role": "CLIENT"
+    },
+    {
+      "id": "!edb33956",
+      "name": "Boss-302",
+      "xy": [
+        -78.7218432,
+        35.6253696
+      ],
+      "seen": "2026-09-09T02:19:26.107Z",
+      "position": "2026-09-08T23:03:12.256Z",
+      "precision": null,
+      "role": "CLIENT"
+    },
+    {
+      "id": "!7e71acb9",
+      "name": "SolarLight-acb9",
+      "xy": [
+        -79.9801344,
+        36.4118016
+      ],
+      "seen": "2026-09-08T10:49:15.282Z",
+      "position": "2026-05-27T15:09:46.929Z",
+      "precision": null,
+      "role": "CLIENT"
+    },
+    {
+      "id": "!1bcca440",
+      "name": "bml-haus",
+      "xy": [
+        -78.6694144,
+        35.3107968
+      ],
+      "seen": "2026-09-06T09:23:19.259Z",
+      "position": "2026-09-06T09:23:19.258Z",
+      "precision": null,
+      "role": "CLIENT"
+    },
+    {
+      "id": "!ac9e8d8",
+      "name": "Derwood Base",
+      "xy": [
+        -77.8829824,
+        35.9923712
+      ],
+      "seen": "2026-09-09T04:26:56.816Z",
+      "position": "2026-07-29T11:24:12.662Z",
+      "precision": 14,
+      "role": "CLIENT"
+    },
+    {
+      "id": "!af877543",
+      "name": "NE NC 2",
+      "xy": [
+        -75.890688,
+        36.306944
+      ],
+      "seen": "2026-09-09T04:04:57.112Z",
+      "position": "2026-09-09T03:49:19.552Z",
+      "precision": 13,
+      "role": "CLIENT"
+    },
+    {
+      "id": "!ccf6e643",
+      "name": "Southside Solar",
+      "xy": [
+        -80.2291712,
+        36.0579072
+      ],
+      "seen": "2026-09-06T13:50:18.053Z",
+      "position": "2026-09-06T13:50:18.052Z",
+      "precision": 14,
+      "role": "CLIENT"
+    },
+    {
+      "id": "!3c4457f1",
+      "name": "Meshtastic 57f1",
+      "xy": [
+        -80.8189952,
+        35.4156544
+      ],
+      "seen": "2026-09-09T03:12:28.559Z",
+      "position": "2026-09-09T03:12:28.558Z",
+      "precision": null,
+      "role": "CLIENT"
+    },
+    {
+      "id": "!84888ab0",
+      "name": "Ridge Bridge",
+      "xy": [
+        -80.7534592,
+        35.3763328
+      ],
+      "seen": "2026-09-09T04:17:19.220Z",
+      "position": "2026-09-09T03:54:02.463Z",
+      "precision": null,
+      "role": "CLIENT"
+    },
+    {
+      "id": "!f4161971",
+      "name": "SausageParty",
+      "xy": [
+        -80.7776256,
+        35.2047104
+      ],
+      "seen": "2026-09-09T04:18:12.935Z",
+      "position": "2026-09-09T04:00:16.489Z",
+      "precision": null,
+      "role": "CLIENT"
+    },
+    {
+      "id": "!cc3ef577",
+      "name": "mindlesstux TEcho [NCMesh.net]",
+      "xy": [
+        -78.5317888,
+        35.9727104
+      ],
+      "seen": "2026-09-09T04:26:33.854Z",
+      "position": "2026-09-09T04:26:33.853Z",
+      "precision": null,
+      "role": "CLIENT"
+    },
+    {
+      "id": "!336038d8",
+      "name": "mindlesstux [NCMesh.net]",
+      "xy": [
+        -78.5317888,
+        35.9727104
+      ],
+      "seen": "2026-09-09T04:34:01.015Z",
+      "position": "2026-09-09T04:34:01.013Z",
+      "precision": 15,
+      "role": "CLIENT"
+    },
+    {
+      "id": "!69854ebc",
+      "name": "NE NC 1",
+      "xy": [
+        -75.890688,
+        36.306944
+      ],
+      "seen": "2026-09-09T03:12:20.083Z",
+      "position": "2026-09-09T01:06:13.111Z",
+      "precision": 14,
+      "role": "CLIENT"
+    },
+    {
+      "id": "!62fa0090",
+      "name": "ITX Indicator 0090 [NCMesh .net]",
+      "xy": [
+        -79.2461312,
+        36.0972288
+      ],
+      "seen": "2026-09-09T02:42:48.107Z",
+      "position": "2026-09-09T00:19:16.058Z",
+      "precision": null,
+      "role": "CLIENT_MUTE"
+    },
+    {
+      "id": "!a2e1a828",
+      "name": "KC4 🕳️ Monitor | G2 Lab",
+      "xy": [
+        -80.6499388,
+        35.1256844
+      ],
+      "seen": "2026-09-09T04:33:19.883Z",
+      "position": "2026-09-09T01:22:30.845Z",
+      "precision": 14,
+      "role": "CLIENT"
+    },
+    {
+      "id": "!757030f4",
+      "name": "Solar ESP32 (30f4)",
+      "xy": [
+        -82.4049664,
+        35.2452608
+      ],
+      "seen": "2026-09-06T07:01:37.622Z",
+      "position": "2026-09-06T07:01:37.620Z",
+      "precision": 14,
+      "role": "CLIENT"
+    },
+    {
+      "id": "!4859587e",
+      "name": "REB - Harbor Breeze Backpack Node",
+      "xy": [
+        -78.6497536,
+        36.1168896
+      ],
+      "seen": "2026-09-09T04:07:27.561Z",
+      "position": "2026-09-09T03:31:48.213Z",
+      "precision": null,
+      "role": "CLIENT_MUTE"
+    },
+    {
+      "id": "!ee64024e",
+      "name": "Meshtastic 024e",
+      "xy": [
+        -75.890688,
+        36.306944
+      ],
+      "seen": "2026-09-09T03:23:36.974Z",
+      "position": "2026-06-25T14:10:15.945Z",
+      "precision": null,
+      "role": "CLIENT"
+    },
+    {
+      "id": "!3f7ec8b7",
+      "name": "HAM-tato",
+      "xy": [
+        -80.7665664,
+        35.2059392
+      ],
+      "seen": "2026-09-09T04:07:55.870Z",
+      "position": "2026-09-09T04:07:55.869Z",
+      "precision": null,
+      "role": "CLIENT"
+    },
+    {
+      "id": "!51a7c90c",
+      "name": "Hestia-c90c",
+      "xy": [
+        -79.7704192,
+        36.4642304
+      ],
+      "seen": "2026-09-08T10:49:14.150Z",
+      "position": "2026-08-28T10:47:43.130Z",
+      "precision": null,
+      "role": "CLIENT"
+    },
+    {
+      "id": "!573432b4",
+      "name": "PapaCharlie - Mobile",
+      "xy": [
+        -80.871424,
+        35.2059392
+      ],
+      "seen": "2026-09-07T22:23:25.956Z",
+      "position": "2026-09-07T22:22:20.886Z",
+      "precision": null,
+      "role": "CLIENT"
+    },
+    {
+      "id": "!408cf70",
+      "name": "Squeep NC",
+      "xy": [
+        -80.9762816,
+        35.4680832
+      ],
+      "seen": "2026-09-06T22:06:13.875Z",
+      "position": "2026-09-06T04:58:00.930Z",
+      "precision": 13,
+      "role": "CLIENT"
+    },
+    {
+      "id": "!2ed83f4",
+      "name": "🛻4CL Mobile - [ncmesh.net]",
+      "xy": [
+        -79.8314496,
+        36.1115648
+      ],
+      "seen": "2026-09-08T21:21:29.729Z",
+      "position": "2026-09-08T21:21:29.728Z",
+      "precision": null,
+      "role": "TRACKER"
+    },
+    {
+      "id": "!e726da4a",
+      "name": "MBinNC Muzi Duo da4a [NCMesh.net]",
+      "xy": [
+        -79.2625152,
+        36.0677376
+      ],
+      "seen": "2026-09-05T05:11:45.722Z",
+      "position": "2026-09-04T12:04:22.586Z",
+      "precision": null,
+      "role": "CLIENT_MUTE"
+    },
+    {
+      "id": "!e07edf67",
+      "name": "CET Truck Solar df67",
+      "xy": [
+        -81.3432832,
+        35.3107968
+      ],
+      "seen": "2026-09-09T02:03:38.627Z",
+      "position": "2026-09-09T02:03:38.627Z",
+      "precision": null,
+      "role": "CLIENT"
+    },
+    {
+      "id": "!d4f836be",
+      "name": "Magsafe RAK19003 36be",
+      "xy": [
+        -80.8321024,
+        35.4287616
+      ],
+      "seen": "2026-09-08T23:51:00.903Z",
+      "position": "2026-08-17T23:15:56.564Z",
+      "precision": null,
+      "role": "CLIENT"
+    },
+    {
+      "id": "!69851b74",
+      "name": "Omnicy",
+      "xy": [
+        -80.9238528,
+        35.3107968
+      ],
+      "seen": "2026-09-07T19:14:52.273Z",
+      "position": "2026-09-07T19:14:52.272Z",
+      "precision": null,
+      "role": null
+    },
+    {
+      "id": "!a20c307c",
+      "name": "New Irving Park [ncmesh.net]",
+      "xy": [
+        -79.8097408,
+        36.1365504
+      ],
+      "seen": "2026-09-03T01:24:53.005Z",
+      "position": "2026-09-03T01:24:53.003Z",
+      "precision": 14,
+      "role": "CLIENT"
+    },
+    {
+      "id": "!433ec928",
+      "name": "BCWB - Base",
+      "xy": [
+        -81.2908544,
+        35.3107968
+      ],
+      "seen": "2026-09-09T04:03:35.129Z",
+      "position": "2026-09-09T04:03:35.128Z",
+      "precision": null,
+      "role": "CLIENT"
+    },
+    {
+      "id": "!a60c461f",
+      "name": "InvisiblebobCard",
+      "xy": [
+        -78.692352,
+        35.6155392
+      ],
+      "seen": "2026-09-09T02:08:10.192Z",
+      "position": "2026-07-19T22:22:11.239Z",
+      "precision": null,
+      "role": "CLIENT_MUTE"
+    },
+    {
+      "id": "!435b037c",
+      "name": "EARTHSHINE",
+      "xy": [
+        -80.3733504,
+        36.438016
+      ],
+      "seen": "2026-09-09T03:45:07.862Z",
+      "position": "2026-08-01T20:24:35.399Z",
+      "precision": 12,
+      "role": "CLIENT"
+    },
+    {
+      "id": "!8a6d0605",
+      "name": "KC4 🕳️ Oaktree Solar",
+      "xy": [
+        -80.6486016,
+        35.1404032
+      ],
+      "seen": "2026-09-09T00:56:39.280Z",
+      "position": "2026-09-09T00:54:29.832Z",
+      "precision": 15,
+      "role": null
+    },
+    {
+      "id": "!bd502594",
+      "name": "S400-H [ncmesh.net]",
+      "xy": [
+        -78.8004864,
+        35.5991552
+      ],
+      "seen": "2026-09-09T04:15:07.455Z",
+      "position": "2026-09-09T04:15:07.453Z",
+      "precision": 12,
+      "role": "CLIENT"
+    },
+    {
+      "id": "!3265cf81",
+      "name": "Silent Party Base",
+      "xy": [
+        -79.888384,
+        36.2676224
+      ],
+      "seen": "2026-09-09T04:20:55.924Z",
+      "position": "2026-08-22T00:41:38.399Z",
+      "precision": null,
+      "role": "CLIENT"
+    },
+    {
+      "id": "!76a45330",
+      "name": "☀️4CL Coast Base RLY | cc-mesh.net",
+      "xy": [
+        -76.8032768,
+        34.6996736
+      ],
+      "seen": "2026-09-08T23:20:29.515Z",
+      "position": "2026-09-08T23:19:09.111Z",
+      "precision": null,
+      "role": null
+    },
+    {
+      "id": "!4358a2a8",
+      "name": "KG4EDY Base",
+      "xy": [
+        -78.6038784,
+        36.3200512
+      ],
+      "seen": "2026-09-07T05:08:21.030Z",
+      "position": "2026-09-07T05:08:21.029Z",
+      "precision": 13,
+      "role": "TAK"
+    },
+    {
+      "id": "!6edda45",
+      "name": "SC Scub",
+      "xy": [
+        -81.2122112,
+        35.2845824
+      ],
+      "seen": "2026-09-09T03:24:21.312Z",
+      "position": "2026-09-09T03:24:21.311Z",
+      "precision": null,
+      "role": "CLIENT"
+    },
+    {
+      "id": "!3964fbec",
+      "name": "OBXnode Solar | ncmesh.net",
+      "xy": [
+        -75.628544,
+        35.9399424
+      ],
+      "seen": "2026-09-08T11:00:16.653Z",
+      "position": "2026-09-08T11:00:16.653Z",
+      "precision": null,
+      "role": "CLIENT"
+    },
+    {
+      "id": "!87164780",
+      "name": "Box Truck [Unmonitored] 4780",
+      "xy": [
+        -80.8353792,
+        35.4189312
+      ],
+      "seen": "2026-09-08T23:49:55.395Z",
+      "position": "2026-08-17T23:15:53.881Z",
+      "precision": null,
+      "role": "CLIENT"
+    },
+    {
+      "id": "!203d2cc3",
+      "name": "RedTail 2cc3",
+      "xy": [
+        -82.640896,
+        35.6909056
+      ],
+      "seen": "2026-09-09T02:07:38.773Z",
+      "position": "2026-09-09T02:07:38.772Z",
+      "precision": null,
+      "role": "CLIENT"
+    },
+    {
+      "id": "!a3fe6b0a",
+      "name": "JJS MT 09",
+      "xy": [
+        -78.9250048,
+        35.0420992
+      ],
+      "seen": "2026-09-03T16:09:37.432Z",
+      "position": "2026-09-03T16:09:37.431Z",
+      "precision": null,
+      "role": "CLIENT"
+    },
+    {
+      "id": "!a2ebd884",
+      "name": "Grapevine Station G2 Repeater",
+      "xy": [
+        -82.6540032,
+        35.8875136
+      ],
+      "seen": "2026-09-09T03:52:58.534Z",
+      "position": "2026-09-09T01:42:22.682Z",
+      "precision": null,
+      "role": null
+    },
+    {
+      "id": "!da5ebe34",
+      "name": "N4UDE - Mooresville 01",
+      "xy": [
+        -80.8255488,
+        35.5794944
+      ],
+      "seen": "2026-09-09T04:08:57.142Z",
+      "position": "2026-09-09T04:08:57.141Z",
+      "precision": 15,
+      "role": "CLIENT_MUTE"
+    },
+    {
+      "id": "!ac9e670",
+      "name": "KVGS Base e670 MQTT",
+      "xy": [
+        -80.1308672,
+        36.077568
+      ],
+      "seen": "2026-09-09T03:55:15.437Z",
+      "position": "2026-09-09T03:46:02.178Z",
+      "precision": 15,
+      "role": null
+    },
+    {
+      "id": "!756f92e0",
+      "name": "🏠Dyson - Kernersville [ncmesh.net]",
+      "xy": [
+        -80.084992,
+        36.0972288
+      ],
+      "seen": "2026-09-09T03:43:08.042Z",
+      "position": "2026-09-09T03:43:08.041Z",
+      "precision": 14,
+      "role": "CLIENT"
+    },
+    {
+      "id": "!baf0e2eb",
+      "name": "B-rad",
+      "xy": [
+        -82.5224259,
+        35.5080291
+      ],
+      "seen": "2026-09-09T02:19:33.866Z",
+      "position": "2026-07-23T00:00:54.352Z",
+      "precision": null,
+      "role": "CLIENT"
+    },
+    {
+      "id": "!1ba68960",
+      "name": "🍑🌳Bell'sOldOrchard1🌳🍑",
+      "xy": [
+        -79.8097408,
+        36.1365504
+      ],
+      "seen": "2026-09-09T04:35:31.345Z",
+      "position": "2026-09-09T02:52:06.783Z",
+      "precision": 13,
+      "role": "CLIENT"
+    },
+    {
+      "id": "!5045f696",
+      "name": "Waughtown Willy Solar Repeater",
+      "xy": [
+        -80.1767424,
+        36.0841216
+      ],
+      "seen": "2026-09-07T13:19:13.596Z",
+      "position": "2026-09-07T13:19:13.595Z",
+      "precision": 14,
+      "role": "CLIENT"
+    },
+    {
+      "id": "!7269467e",
+      "name": "odbrain 467e",
+      "xy": [
+        -78.6169856,
+        35.782656
+      ],
+      "seen": "2026-09-09T04:10:28.908Z",
+      "position": "2026-09-09T04:10:28.907Z",
+      "precision": 13,
+      "role": "CLIENT"
+    },
+    {
+      "id": "!1ba2bfa0",
+      "name": "1817 Attic [ncmesh.net]",
+      "xy": [
+        -80.871424,
+        35.2059392
+      ],
+      "seen": "2026-09-09T04:22:44.072Z",
+      "position": "2026-09-09T04:22:44.071Z",
+      "precision": null,
+      "role": "CLIENT"
+    },
+    {
+      "id": "!e676ad9a",
+      "name": "RXC6 - REB House Base",
+      "xy": [
+        -78.6497536,
+        36.1168896
+      ],
+      "seen": "2026-09-09T04:07:27.557Z",
+      "position": "2026-09-09T02:43:24.556Z",
+      "precision": null,
+      "role": null
+    },
+    {
+      "id": "!5924d579",
+      "name": "Meshtastic d579",
+      "xy": [
+        -80.871424,
+        35.2059392
+      ],
+      "seen": "2026-09-08T21:00:40.116Z",
+      "position": "2026-09-08T21:00:40.115Z",
+      "precision": null,
+      "role": "CLIENT"
+    },
+    {
+      "id": "!5b57e7ab",
+      "name": "KAM_1",
+      "xy": [
+        -80.60928,
+        35.1010816
+      ],
+      "seen": "2026-09-09T04:33:20.074Z",
+      "position": "2026-09-09T01:41:33.678Z",
+      "precision": null,
+      "role": "CLIENT"
+    },
+    {
+      "id": "!69853f7c",
+      "name": "HardReset ",
+      "xy": [
+        -76.6902272,
+        35.0355456
+      ],
+      "seen": "2026-09-09T03:59:14.611Z",
+      "position": "2026-09-09T03:59:14.609Z",
+      "precision": 14,
+      "role": "CLIENT"
+    },
+    {
+      "id": "!7c5ab4e0",
+      "name": "W4PFI-BBS",
+      "xy": [
+        -80.6944768,
+        35.0683136
+      ],
+      "seen": "2026-09-09T04:32:59.100Z",
+      "position": "2026-09-09T02:19:32.683Z",
+      "precision": null,
+      "role": "CLIENT"
+    },
+    {
+      "id": "!eec59c09",
+      "name": "kronos",
+      "xy": [
+        -79.35511,
+        36.067397
+      ],
+      "seen": "2026-09-09T02:43:11.282Z",
+      "position": "2026-09-08T23:39:35.805Z",
+      "precision": null,
+      "role": "ROUTER"
+    },
+    {
+      "id": "!501d58c8",
+      "name": "MBinNC Xiao 2 58c8 [NCMesh.net]",
+      "xy": [
+        -79.265792,
+        36.0644608
+      ],
+      "seen": "2026-09-06T13:13:10.239Z",
+      "position": "2026-09-06T12:48:23.528Z",
+      "precision": null,
+      "role": "CLIENT_MUTE"
+    },
+    {
+      "id": "!b47c06de",
+      "name": "🌳🍑BellsOldOrchard2🍑🌳",
+      "xy": [
+        -79.822848,
+        36.1496576
+      ],
+      "seen": "2026-09-09T03:46:57.684Z",
+      "position": "2026-09-09T01:26:51.584Z",
+      "precision": null,
+      "role": "CLIENT"
+    },
+    {
+      "id": "!f875b3ad",
+      "name": "Bravo Oscar X-Ray [ncmesh.net] b3ad",
+      "xy": [
+        -80.8321024,
+        35.4287616
+      ],
+      "seen": "2026-09-08T23:49:50.980Z",
+      "position": "2026-08-17T23:15:48.702Z",
+      "precision": null,
+      "role": "CLIENT_MUTE"
+    },
+    {
+      "id": "!a2e1a18c",
+      "name": "bigl0af g2 Mobile",
+      "xy": [
+        -78.5982171,
+        35.5960566
+      ],
+      "seen": "2026-09-08T19:51:49.455Z",
+      "position": "2026-09-08T19:51:49.454Z",
+      "precision": null,
+      "role": "CLIENT"
+    },
+    {
+      "id": "!e1d71c04",
+      "name": "Tyro Repeater 1",
+      "xy": [
+        -80.3864576,
+        35.7957632
+      ],
+      "seen": "2026-09-09T04:04:01.455Z",
+      "position": "2026-09-09T04:04:01.454Z",
+      "precision": 14,
+      "role": "CLIENT"
+    },
+    {
+      "id": "!435a88fc",
+      "name": "ChandlersHax - Desk",
+      "xy": [
+        -78.8791296,
+        35.8875136
+      ],
+      "seen": "2026-09-04T16:47:41.508Z",
+      "position": "2026-09-04T16:47:41.507Z",
+      "precision": null,
+      "role": "CLIENT_MUTE"
+    },
+    {
+      "id": "!49b5e8e0",
+      "name": "Bender's Antenna",
+      "xy": [
+        -80.6617088,
+        35.0486528
+      ],
+      "seen": "2026-09-08T19:19:19.121Z",
+      "position": "2026-08-27T15:51:56.978Z",
+      "precision": null,
+      "role": null
+    },
+    {
+      "id": "!799e99d7",
+      "name": "SolarQ99d7",
+      "xy": [
+        -78.8791296,
+        35.1010816
+      ],
+      "seen": "2026-09-09T02:55:46.371Z",
+      "position": "2026-09-09T01:39:29.505Z",
+      "precision": null,
+      "role": "CLIENT"
+    },
+    {
+      "id": "!49b7b074",
+      "name": "qv4",
+      "xy": [
+        -78.8791296,
+        35.1010816
+      ],
+      "seen": "2026-09-09T04:07:49.138Z",
+      "position": "2026-09-07T01:22:55.331Z",
+      "precision": null,
+      "role": "CLIENT"
+    },
+    {
+      "id": "!9f1c9acd",
+      "name": "Meshtastic 9acd",
+      "xy": [
+        -78.8791296,
+        35.1010816
+      ],
+      "seen": "2026-09-09T01:53:56.842Z",
+      "position": "2026-08-05T00:24:22.230Z",
+      "precision": null,
+      "role": "CLIENT"
+    },
+    {
+      "id": "!41a43992",
+      "name": "Thinker - Cartop Solar ",
+      "xy": [
+        -80.6354944,
+        35.127296
+      ],
+      "seen": "2026-09-07T02:20:57.525Z",
+      "position": "2026-09-07T02:20:57.524Z",
+      "precision": 12,
+      "role": "CLIENT"
+    },
+    {
+      "id": "!1213fd1d",
+      "name": "Meshtastic fd1d",
+      "xy": [
+        -82.5491456,
+        35.7302272
+      ],
+      "seen": "2026-09-09T03:22:11.863Z",
+      "position": "2026-09-09T02:28:28.145Z",
+      "precision": null,
+      "role": "CLIENT_MUTE"
+    },
+    {
+      "id": "!1ad0dba2",
+      "name": "Solar Repeater Asheboro",
+      "xy": [
+        -79.822848,
+        35.7302272
+      ],
+      "seen": "2026-09-08T17:40:10.337Z",
+      "position": "2026-09-08T17:40:10.336Z",
+      "precision": null,
+      "role": null
+    },
+    {
+      "id": "!e418d218",
+      "name": "Kegnode1",
+      "xy": [
+        -77.6470528,
+        36.438016
+      ],
+      "seen": "2026-09-09T04:18:43.538Z",
+      "position": "2026-09-09T03:42:14.512Z",
+      "precision": 12,
+      "role": "CLIENT"
+    },
+    {
+      "id": "!c0535f41",
+      "name": "KR4KIO",
+      "xy": [
+        -82.4967168,
+        35.5729408
+      ],
+      "seen": "2026-09-09T04:25:37.538Z",
+      "position": "2026-09-09T04:25:37.537Z",
+      "precision": null,
+      "role": "CLIENT"
+    },
+    {
+      "id": "!557bf31b",
+      "name": "Surveillance Van 4",
+      "xy": [
+        -82.4967168,
+        34.8913664
+      ],
+      "seen": "2026-09-09T04:23:29.939Z",
+      "position": "2026-09-09T04:23:29.938Z",
+      "precision": null,
+      "role": "CLIENT"
+    },
+    {
+      "id": "!bc5b3d20",
+      "name": "S5 Relay Jesse",
+      "xy": [
+        -78.512128,
+        35.6253696
+      ],
+      "seen": "2026-09-09T04:17:36.407Z",
+      "position": "2026-09-09T04:17:36.407Z",
+      "precision": 13,
+      "role": "CLIENT"
+    },
+    {
+      "id": "!a0cb1ba0",
+      "name": "InvisibleBob-Work",
+      "xy": [
+        -78.7939328,
+        35.7236736
+      ],
+      "seen": "2026-09-09T04:16:48.612Z",
+      "position": "2026-09-09T04:16:12.304Z",
+      "precision": 15,
+      "role": "CLIENT"
+    },
+    {
+      "id": "!1847372",
+      "name": "Lithium Solar (SCmesh.us)",
+      "xy": [
+        -82.6146816,
+        34.6423296
+      ],
+      "seen": "2026-09-09T04:02:14.499Z",
+      "position": "2026-09-08T21:14:49.158Z",
+      "precision": null,
+      "role": "CLIENT"
+    },
+    {
+      "id": "!9ea02534",
+      "name": "JP Base",
+      "xy": [
+        -82.3394304,
+        34.8913664
+      ],
+      "seen": "2026-09-09T04:35:35.955Z",
+      "position": "2026-09-09T04:35:35.954Z",
+      "precision": 13,
+      "role": null
+    },
+    {
+      "id": "!ea1f19d8",
+      "name": "🌳🍑BellsOldRepeater🍑🌳",
+      "xy": [
+        -79.7999104,
+        36.1332736
+      ],
+      "seen": "2026-09-09T04:35:31.349Z",
+      "position": "2026-09-09T04:35:15.613Z",
+      "precision": null,
+      "role": "CLIENT"
+    },
+    {
+      "id": "!628d4ef2",
+      "name": "Meshtastic 4ef2",
+      "xy": [
+        -82.4967168,
+        34.8913664
+      ],
+      "seen": "2026-09-09T03:39:23.461Z",
+      "position": "2026-09-09T03:00:46.598Z",
+      "precision": null,
+      "role": null
+    },
+    {
+      "id": "!33691528",
+      "name": "",
+      "xy": [
+        -82.8112896,
+        34.6292224
+      ],
+      "seen": "2026-09-09T02:37:18.129Z",
+      "position": "2026-09-09T02:37:18.128Z",
+      "precision": null,
+      "role": "CLIENT"
+    },
+    {
+      "id": "!a038f79c",
+      "name": "Glassy Mnt Router",
+      "xy": [
+        -82.6671104,
+        34.9044736
+      ],
+      "seen": "2026-09-09T03:46:37.962Z",
+      "position": "2026-09-08T18:15:25.062Z",
+      "precision": null,
+      "role": "ROUTER"
+    },
+    {
+      "id": "!db510490",
+      "name": "Meshinator_Base",
+      "xy": [
+        -78.774272,
+        36.1496576
+      ],
+      "seen": "2026-09-09T03:36:17.209Z",
+      "position": "2026-09-09T00:02:36.822Z",
+      "precision": null,
+      "role": "CLIENT"
+    },
+    {
+      "id": "!6ed41bcb",
+      "name": "Orion",
+      "xy": [
+        -80.8583168,
+        35.2714752
+      ],
+      "seen": "2026-09-09T03:59:52.093Z",
+      "position": "2026-09-08T18:37:36.256Z",
+      "precision": null,
+      "role": "CLIENT"
+    },
+    {
+      "id": "!bf7e64f3",
+      "name": "Just TZN",
+      "xy": [
+        -77.3062656,
+        35.5729408
+      ],
+      "seen": "2026-09-05T15:09:16.414Z",
+      "position": "2026-09-05T15:09:16.413Z",
+      "precision": 12,
+      "role": "CLIENT_MUTE"
     },
     {
       "id": "!63718199",
@@ -37,6 +2125,18 @@
       "role": "CLIENT"
     },
     {
+      "id": "!9e756658",
+      "name": "Deucalion-6658",
+      "xy": [
+        -79.9735808,
+        36.3921408
+      ],
+      "seen": "2026-09-08T11:15:30.410Z",
+      "position": "2026-08-28T19:58:19.264Z",
+      "precision": null,
+      "role": "CLIENT"
+    },
+    {
       "id": "!1fc28ad1",
       "name": "K4IRV -R",
       "xy": [
@@ -46,6 +2146,42 @@
       "seen": "2026-09-08T23:35:39.685Z",
       "position": "2026-09-08T23:35:39.684Z",
       "precision": 13,
+      "role": "CLIENT"
+    },
+    {
+      "id": "!c3062ff6",
+      "name": "TR01",
+      "xy": [
+        -80.3864576,
+        35.7957632
+      ],
+      "seen": "2026-09-09T04:04:01.452Z",
+      "position": "2026-09-09T03:53:00.717Z",
+      "precision": 14,
+      "role": "CLIENT"
+    },
+    {
+      "id": "!6985980c",
+      "name": "GSOPG Deck",
+      "xy": [
+        -79.7442048,
+        36.0185856
+      ],
+      "seen": "2026-09-09T03:42:09.705Z",
+      "position": "2026-09-09T03:42:09.703Z",
+      "precision": 12,
+      "role": "CLIENT"
+    },
+    {
+      "id": "!1aefdb0b",
+      "name": "K4JDR-1",
+      "xy": [
+        -78.5907712,
+        35.5991552
+      ],
+      "seen": "2026-09-04T18:07:20.937Z",
+      "position": "2026-09-04T18:07:20.936Z",
+      "precision": null,
       "role": "CLIENT"
     },
     {
@@ -73,6 +2209,150 @@
       "role": "CLIENT"
     },
     {
+      "id": "!4357f4b8",
+      "name": "Meshtastic f4b8",
+      "xy": [
+        -82.3399181,
+        35.6030241
+      ],
+      "seen": "2026-09-04T19:28:22.065Z",
+      "position": "2026-09-04T19:20:57.414Z",
+      "precision": null,
+      "role": "CLIENT"
+    },
+    {
+      "id": "!69859058",
+      "name": "ChandlersHax - Attic",
+      "xy": [
+        -78.8791296,
+        35.8875136
+      ],
+      "seen": "2026-09-08T12:06:04.670Z",
+      "position": "2026-09-08T12:06:04.669Z",
+      "precision": null,
+      "role": null
+    },
+    {
+      "id": "!f6915274",
+      "name": "SF (K4KDE)",
+      "xy": [
+        -78.5514496,
+        35.8219776
+      ],
+      "seen": "2026-09-06T12:40:04.414Z",
+      "position": "2026-09-06T12:40:04.413Z",
+      "precision": 14,
+      "role": "CLIENT"
+    },
+    {
+      "id": "!c34a6d23",
+      "name": "Squelch (K4KDE)",
+      "xy": [
+        -78.6366464,
+        35.7892096
+      ],
+      "seen": "2026-09-03T14:03:38.765Z",
+      "position": "2026-09-03T14:03:38.763Z",
+      "precision": 15,
+      "role": "CLIENT"
+    },
+    {
+      "id": "!2ee32f8",
+      "name": "Heltec WiFi Jesse",
+      "xy": [
+        -78.512128,
+        35.6253696
+      ],
+      "seen": "2026-09-09T04:17:36.405Z",
+      "position": "2026-09-09T03:55:55.587Z",
+      "precision": 13,
+      "role": "CLIENT"
+    },
+    {
+      "id": "!a2ebdc24",
+      "name": "EntropicFlows - HXG2",
+      "xy": [
+        -78.4728064,
+        36.4249088
+      ],
+      "seen": "2026-09-09T00:34:51.871Z",
+      "position": "2026-08-24T10:14:17.149Z",
+      "precision": null,
+      "role": "CLIENT"
+    },
+    {
+      "id": "!ce50c402",
+      "name": "Meshtastic 2923",
+      "xy": [
+        -79.822848,
+        36.0448
+      ],
+      "seen": "2026-09-09T02:52:04.366Z",
+      "position": "2026-09-09T02:52:04.365Z",
+      "precision": 15,
+      "role": null
+    },
+    {
+      "id": "!f521ecee",
+      "name": "Meatfarts1984",
+      "xy": [
+        -80.8189952,
+        35.4680832
+      ],
+      "seen": "2026-09-03T13:06:02.633Z",
+      "position": "2026-09-03T13:06:02.632Z",
+      "precision": null,
+      "role": "CLIENT"
+    },
+    {
+      "id": "!9e9e2acc",
+      "name": "EJN Beach MQTT",
+      "xy": [
+        -75.7129216,
+        36.016128
+      ],
+      "seen": "2026-09-09T04:14:16.091Z",
+      "position": "2026-09-09T03:52:15.402Z",
+      "precision": null,
+      "role": "CLIENT"
+    },
+    {
+      "id": "!91ae9589",
+      "name": "B33_H!V3",
+      "xy": [
+        -79.29856,
+        35.4680832
+      ],
+      "seen": "2026-09-09T04:21:38.544Z",
+      "position": "2026-08-26T03:30:35.230Z",
+      "precision": 13,
+      "role": "CLIENT"
+    },
+    {
+      "id": "!6137b78a",
+      "name": "stiflers_mom",
+      "xy": [
+        -78.512128,
+        35.5729408
+      ],
+      "seen": "2026-09-09T04:09:26.381Z",
+      "position": "2026-09-09T04:09:26.379Z",
+      "precision": 13,
+      "role": "CLIENT"
+    },
+    {
+      "id": "!75eca06b",
+      "name": "Meshtastic a06b",
+      "xy": [
+        -82.5491456,
+        35.7302272
+      ],
+      "seen": "2026-09-09T02:19:33.869Z",
+      "position": "2026-09-08T21:16:50.814Z",
+      "precision": null,
+      "role": "CLIENT_MUTE"
+    },
+    {
       "id": "!abf9a4a7",
       "name": "Max",
       "xy": [
@@ -82,6 +2362,222 @@
       "seen": "2026-09-07T22:44:56.224Z",
       "position": "2026-09-07T22:44:56.223Z",
       "precision": 14,
+      "role": "CLIENT"
+    },
+    {
+      "id": "!9a85fc3e",
+      "name": "HJ42_WioTracker1",
+      "xy": [
+        -78.8791296,
+        35.7302272
+      ],
+      "seen": "2026-09-09T04:28:47.367Z",
+      "position": "2026-09-09T04:07:30.045Z",
+      "precision": 13,
+      "role": "CLIENT"
+    },
+    {
+      "id": "!2e58e24",
+      "name": "Meshtastic 8e24",
+      "xy": [
+        -78.8791296,
+        35.7302272
+      ],
+      "seen": "2026-09-09T04:20:52.710Z",
+      "position": "2026-09-09T04:20:52.709Z",
+      "precision": null,
+      "role": "CLIENT"
+    },
+    {
+      "id": "!1fee9612",
+      "name": "KQ4QEU Vehicular",
+      "xy": [
+        -82.6343424,
+        35.5663872
+      ],
+      "seen": "2026-09-08T19:41:00.988Z",
+      "position": "2026-08-25T23:17:50.388Z",
+      "precision": null,
+      "role": "CLIENT_MUTE"
+    },
+    {
+      "id": "!a589476",
+      "name": "Bob_E_Fresh (NCMesh.net)",
+      "xy": [
+        -80.8189952,
+        35.3632256
+      ],
+      "seen": "2026-09-09T03:29:03.147Z",
+      "position": "2026-09-08T19:10:30.373Z",
+      "precision": 13,
+      "role": "CLIENT"
+    },
+    {
+      "id": "!db2b2e90",
+      "name": "Meshtastic 2e90",
+      "xy": [
+        -81.1597824,
+        35.4418688
+      ],
+      "seen": "2026-09-09T00:11:55.212Z",
+      "position": "2026-09-09T00:11:55.211Z",
+      "precision": null,
+      "role": "CLIENT"
+    },
+    {
+      "id": "!13351388",
+      "name": "Radiofox_2",
+      "xy": [
+        -81.3094198,
+        35.2330668
+      ],
+      "seen": "2026-09-08T10:36:51.903Z",
+      "position": "2026-09-08T10:36:51.902Z",
+      "precision": null,
+      "role": "CLIENT"
+    },
+    {
+      "id": "!da547958",
+      "name": "Meshtastic 7958",
+      "xy": [
+        -81.0156032,
+        35.2714752
+      ],
+      "seen": "2026-09-08T23:47:28.533Z",
+      "position": "2026-09-08T21:57:47.276Z",
+      "precision": null,
+      "role": "CLIENT"
+    },
+    {
+      "id": "!4a892cbe",
+      "name": "KQ4COB 2cbe",
+      "xy": [
+        -81.2253184,
+        36.37248
+      ],
+      "seen": "2026-09-09T01:29:41.522Z",
+      "position": "2026-09-09T01:29:41.522Z",
+      "precision": null,
+      "role": "CLIENT"
+    },
+    {
+      "id": "!85a9835e",
+      "name": "Empty1",
+      "xy": [
+        -78.8004864,
+        35.7040128
+      ],
+      "seen": "2026-09-08T19:58:41.810Z",
+      "position": "2026-09-08T19:22:21.492Z",
+      "precision": null,
+      "role": "CLIENT"
+    },
+    {
+      "id": "!911fdc61",
+      "name": "KM4FLG_Cap_Tracker",
+      "xy": [
+        -82.3394304,
+        35.6253696
+      ],
+      "seen": "2026-09-09T04:21:29.879Z",
+      "position": "2026-09-09T04:21:29.878Z",
+      "precision": null,
+      "role": "CLIENT_MUTE"
+    },
+    {
+      "id": "!3d15c0f7",
+      "name": "Meshtastic c0f7",
+      "xy": [
+        -78.9643264,
+        35.9858176
+      ],
+      "seen": "2026-09-09T04:24:21.417Z",
+      "position": "2026-09-09T04:24:21.415Z",
+      "precision": 15,
+      "role": "CLIENT_MUTE"
+    },
+    {
+      "id": "!31349e8e",
+      "name": "Meshtastic 9e8e",
+      "xy": [
+        -81.1597824,
+        35.4418688
+      ],
+      "seen": "2026-09-08T19:36:53.993Z",
+      "position": "2026-09-08T19:36:53.992Z",
+      "precision": null,
+      "role": "CLIENT"
+    },
+    {
+      "id": "!408ed3c",
+      "name": "TANDY2000",
+      "xy": [
+        -80.805888,
+        35.2190464
+      ],
+      "seen": "2026-09-09T00:52:21.240Z",
+      "position": "2026-09-09T00:52:21.240Z",
+      "precision": null,
+      "role": "CLIENT"
+    },
+    {
+      "id": "!e1c759f3",
+      "name": "Meshtastic 59f3",
+      "xy": [
+        -78.6169856,
+        35.5729408
+      ],
+      "seen": "2026-09-04T18:04:51.037Z",
+      "position": "2026-09-04T17:51:37.681Z",
+      "precision": null,
+      "role": "CLIENT"
+    },
+    {
+      "id": "!9ae43b66",
+      "name": "WDD_3b66",
+      "xy": [
+        -81.657856,
+        35.4156544
+      ],
+      "seen": "2026-09-06T20:11:10.942Z",
+      "position": "2026-09-06T20:11:10.941Z",
+      "precision": 13,
+      "role": "CLIENT"
+    },
+    {
+      "id": "!ccc696cf",
+      "name": "Meshtastic 96cf",
+      "xy": [
+        -78.6169856,
+        36.0448
+      ],
+      "seen": "2026-09-08T23:49:47.815Z",
+      "position": "2026-08-26T18:31:56.037Z",
+      "precision": null,
+      "role": "CLIENT_MUTE"
+    },
+    {
+      "id": "!f6a23c92",
+      "name": "psi818",
+      "xy": [
+        -78.905344,
+        35.7040128
+      ],
+      "seen": "2026-09-09T01:46:18.322Z",
+      "position": "2026-09-09T01:46:18.322Z",
+      "precision": 12,
+      "role": "CLIENT"
+    },
+    {
+      "id": "!6984eee0",
+      "name": "mindlesstux Hv4 [NCMesh. net]",
+      "xy": [
+        -78.5317888,
+        35.9727104
+      ],
+      "seen": "2026-09-09T03:37:25.825Z",
+      "position": "2026-09-08T19:42:30.248Z",
+      "precision": null,
       "role": "CLIENT"
     },
     {
@@ -109,6 +2605,690 @@
       "role": "CLIENT"
     },
     {
+      "id": "!ef5e6fd0",
+      "name": "greybeard.ai",
+      "xy": [
+        -80.6879232,
+        35.2845824
+      ],
+      "seen": "2026-09-09T04:24:15.679Z",
+      "position": "2026-09-09T04:24:15.678Z",
+      "precision": 12,
+      "role": "CLIENT_MUTE"
+    },
+    {
+      "id": "!ef0f68b9",
+      "name": "Meshtastic 68b9",
+      "xy": [
+        -78.577664,
+        35.586048
+      ],
+      "seen": "2026-09-08T11:30:52.754Z",
+      "position": "2026-08-28T19:31:50.234Z",
+      "precision": null,
+      "role": "CLIENT_MUTE"
+    },
+    {
+      "id": "!10ac9867",
+      "name": "Packet Pigeon",
+      "xy": [
+        -79.822848,
+        36.0972288
+      ],
+      "seen": "2026-09-09T04:28:28.471Z",
+      "position": "2026-09-09T04:28:28.470Z",
+      "precision": 13,
+      "role": "CLIENT"
+    },
+    {
+      "id": "!90a0e40c",
+      "name": "KR4KVG",
+      "xy": [
+        -78.7808256,
+        35.6581376
+      ],
+      "seen": "2026-09-08T23:23:24.726Z",
+      "position": "2026-09-08T23:23:24.725Z",
+      "precision": null,
+      "role": "CLIENT"
+    },
+    {
+      "id": "!c7fab3a5",
+      "name": "Lake city tower 300",
+      "xy": [
+        -79.7704192,
+        33.8952192
+      ],
+      "seen": "2026-09-08T08:24:20.458Z",
+      "position": "2026-09-08T06:57:02.598Z",
+      "precision": null,
+      "role": "CLIENT"
+    },
+    {
+      "id": "!58401139",
+      "name": "Meshtastic 1139",
+      "xy": [
+        -78.6038784,
+        35.9268352
+      ],
+      "seen": "2026-09-08T20:16:47.896Z",
+      "position": "2026-09-08T20:13:18.923Z",
+      "precision": null,
+      "role": "CLIENT"
+    },
+    {
+      "id": "!2ca39136",
+      "name": "DCE_T1G",
+      "xy": [
+        -81.821696,
+        36.2348544
+      ],
+      "seen": "2026-09-02T12:12:58.743Z",
+      "position": "2026-09-02T12:12:58.742Z",
+      "precision": 14,
+      "role": "CLIENT_MUTE"
+    },
+    {
+      "id": "!38b76d5a",
+      "name": "Propst Mountain 🫙",
+      "xy": [
+        -81.7582495,
+        35.6155
+      ],
+      "seen": "2026-09-09T04:31:18.665Z",
+      "position": "2026-09-09T04:27:19.217Z",
+      "precision": null,
+      "role": "ROUTER"
+    },
+    {
+      "id": "!9e755cd4",
+      "name": "Meshtastic 5cd4",
+      "xy": [
+        -80.5568512,
+        35.6777984
+      ],
+      "seen": "2026-09-09T04:33:36.425Z",
+      "position": "2026-09-09T04:33:36.424Z",
+      "precision": 13,
+      "role": "CLIENT"
+    },
+    {
+      "id": "!b07022ce",
+      "name": "/u/HotdogWater KM4KUN [ncmesh.net]",
+      "xy": [
+        -80.8583168,
+        35.454976
+      ],
+      "seen": "2026-09-09T00:51:08.260Z",
+      "position": "2026-09-09T00:51:08.259Z",
+      "precision": 14,
+      "role": "CLIENT"
+    },
+    {
+      "id": "!5e8ac579",
+      "name": "T2CNC c579",
+      "xy": [
+        -78.8267008,
+        35.9399424
+      ],
+      "seen": "2026-09-08T17:41:12.851Z",
+      "position": "2026-09-08T12:53:53.098Z",
+      "precision": 13,
+      "role": "CLIENT"
+    },
+    {
+      "id": "!21072efe",
+      "name": "DAZE BAZE",
+      "xy": [
+        -82.3394304,
+        35.6253696
+      ],
+      "seen": "2026-09-09T03:42:53.545Z",
+      "position": "2026-09-09T00:47:43.488Z",
+      "precision": 14,
+      "role": "ROUTER"
+    },
+    {
+      "id": "!4ff624fc",
+      "name": "TminusTwo 🚀",
+      "xy": [
+        -78.9315584,
+        35.8875136
+      ],
+      "seen": "2026-09-09T02:18:42.854Z",
+      "position": "2026-09-09T01:47:24.553Z",
+      "precision": null,
+      "role": "CLIENT_MUTE"
+    },
+    {
+      "id": "!3d4920c4",
+      "name": "MBinNC Mobile 9 T096 20c4 [NCMesh.net]",
+      "xy": [
+        -79.2690688,
+        36.1005056
+      ],
+      "seen": "2026-09-09T04:33:20.702Z",
+      "position": "2026-09-09T04:33:20.702Z",
+      "precision": null,
+      "role": "CLIENT_MUTE"
+    },
+    {
+      "id": "!be9d7f85",
+      "name": "Rob [ncmesh.net]",
+      "xy": [
+        -79.9932416,
+        35.9530496
+      ],
+      "seen": "2026-09-03T20:50:02.681Z",
+      "position": "2026-09-03T18:27:03.161Z",
+      "precision": 14,
+      "role": "CLIENT"
+    },
+    {
+      "id": "!4ef07cd0",
+      "name": "KG4EDY ROK",
+      "xy": [
+        -78.6038784,
+        36.3200512
+      ],
+      "seen": "2026-09-03T01:45:32.409Z",
+      "position": "2026-09-03T01:44:17.847Z",
+      "precision": null,
+      "role": "CLIENT"
+    },
+    {
+      "id": "!49b70c58",
+      "name": "DashNataku-0c58",
+      "xy": [
+        -78.5645568,
+        35.9399424
+      ],
+      "seen": "2026-09-08T22:59:38.279Z",
+      "position": "2026-09-08T22:59:38.278Z",
+      "precision": null,
+      "role": "CLIENT"
+    },
+    {
+      "id": "!4357ed8c",
+      "name": "",
+      "xy": [
+        -82.3394304,
+        35.6253696
+      ],
+      "seen": "2026-09-09T04:34:58.384Z",
+      "position": "2026-09-09T04:34:58.383Z",
+      "precision": null,
+      "role": "CLIENT"
+    },
+    {
+      "id": "!95829d76",
+      "name": "Whiplash 22C",
+      "xy": [
+        -82.5491456,
+        35.5729408
+      ],
+      "seen": "2026-09-02T11:59:57.746Z",
+      "position": "2026-09-02T11:59:57.745Z",
+      "precision": null,
+      "role": "CLIENT"
+    },
+    {
+      "id": "!62f8451c",
+      "name": "Northwest Kernersville",
+      "xy": [
+        -80.150528,
+        36.110336
+      ],
+      "seen": "2026-09-06T20:20:43.093Z",
+      "position": "2026-09-06T20:20:43.092Z",
+      "precision": null,
+      "role": "CLIENT"
+    },
+    {
+      "id": "!cb87f461",
+      "name": "Tommy's Repeater",
+      "xy": [
+        -80.8189952,
+        35.4680832
+      ],
+      "seen": "2026-09-09T02:50:17.342Z",
+      "position": "2026-09-09T02:50:17.342Z",
+      "precision": null,
+      "role": "ROUTER"
+    },
+    {
+      "id": "!6983be48",
+      "name": "astronuat",
+      "xy": [
+        -78.8660224,
+        35.71712
+      ],
+      "seen": "2026-09-06T21:13:00.672Z",
+      "position": "2026-09-06T21:13:00.672Z",
+      "precision": null,
+      "role": "CLIENT"
+    },
+    {
+      "id": "!a20a0e70",
+      "name": "High Point [ncmesh.net]",
+      "xy": [
+        -79.9932416,
+        35.9530496
+      ],
+      "seen": "2026-09-09T03:45:07.868Z",
+      "position": "2026-09-08T20:25:18.026Z",
+      "precision": null,
+      "role": "CLIENT"
+    },
+    {
+      "id": "!86bbb5ac",
+      "name": "HJ42-NODE-H2T(MQTT)",
+      "xy": [
+        -78.8791296,
+        35.7302272
+      ],
+      "seen": "2026-09-09T03:58:15.563Z",
+      "position": "2026-09-09T02:41:55.325Z",
+      "precision": null,
+      "role": "CLIENT"
+    },
+    {
+      "id": "!f6912890",
+      "name": "EntropicFlows - HX09",
+      "xy": [
+        -78.5645568,
+        36.6215168
+      ],
+      "seen": "2026-09-04T22:09:12.491Z",
+      "position": "2026-09-04T17:14:07.069Z",
+      "precision": null,
+      "role": "CLIENT"
+    },
+    {
+      "id": "!2e5d364",
+      "name": "MTslm#04 - Office - d364",
+      "xy": [
+        -78.7218432,
+        35.8350848
+      ],
+      "seen": "2026-09-09T03:57:57.974Z",
+      "position": "2026-09-09T03:40:22.050Z",
+      "precision": null,
+      "role": "CLIENT"
+    },
+    {
+      "id": "!bde973a4",
+      "name": "Sempire73Alpha4",
+      "xy": [
+        -79.7971745,
+        36.1336006
+      ],
+      "seen": "2026-09-08T22:14:45.761Z",
+      "position": "2026-09-02T22:41:00.515Z",
+      "precision": null,
+      "role": "CLIENT"
+    },
+    {
+      "id": "!6ace216",
+      "name": "WB8OUE in motion ",
+      "xy": [
+        -75.9758848,
+        35.1076352
+      ],
+      "seen": "2026-09-08T19:51:39.082Z",
+      "position": "2026-09-08T19:51:39.081Z",
+      "precision": 15,
+      "role": "CLIENT"
+    },
+    {
+      "id": "!cd037e37",
+      "name": "WB8OUE on a roll…",
+      "xy": [
+        -75.9758848,
+        35.1076352
+      ],
+      "seen": "2026-09-08T19:06:40.431Z",
+      "position": "2026-09-01T18:44:43.347Z",
+      "precision": null,
+      "role": "CLIENT"
+    },
+    {
+      "id": "!e5ceb29a",
+      "name": "SuperFortress!",
+      "xy": [
+        -75.9955456,
+        35.1010816
+      ],
+      "seen": "2026-09-08T19:44:21.954Z",
+      "position": "2026-09-08T19:44:21.954Z",
+      "precision": null,
+      "role": "CLIENT"
+    },
+    {
+      "id": "!43571f34",
+      "name": "KG4EDY Micro",
+      "xy": [
+        -78.5514496,
+        36.3200512
+      ],
+      "seen": "2026-09-04T20:58:46.503Z",
+      "position": "2026-09-04T20:58:46.502Z",
+      "precision": null,
+      "role": "CLIENT"
+    },
+    {
+      "id": "!bd6e72c5",
+      "name": "Clayton Base",
+      "xy": [
+        -78.4203776,
+        35.586048
+      ],
+      "seen": "2026-09-08T20:26:45.598Z",
+      "position": "2026-09-08T20:26:45.597Z",
+      "precision": 14,
+      "role": "CLIENT"
+    },
+    {
+      "id": "!def2b3f8",
+      "name": "Bishop Pocket 1 [SCMesh.us]",
+      "xy": [
+        -80.347136,
+        33.8952192
+      ],
+      "seen": "2026-09-04T09:17:40.118Z",
+      "position": "2026-09-04T09:17:40.117Z",
+      "precision": null,
+      "role": "CLIENT"
+    },
+    {
+      "id": "!319baa4a",
+      "name": "W4DDZ SOLAR REPEATER",
+      "xy": [
+        -79.6622848,
+        34.062336
+      ],
+      "seen": "2026-09-03T12:30:05.417Z",
+      "position": "2026-09-03T12:30:05.416Z",
+      "precision": null,
+      "role": "CLIENT"
+    },
+    {
+      "id": "!433cfa68",
+      "name": "SKYNET 2",
+      "xy": [
+        -81.0156032,
+        35.2976896
+      ],
+      "seen": "2026-09-03T17:27:21.577Z",
+      "position": "2026-09-03T17:27:21.576Z",
+      "precision": 14,
+      "role": "CLIENT"
+    },
+    {
+      "id": "!698589e4",
+      "name": "lozzty",
+      "xy": [
+        -78.6300928,
+        35.848192
+      ],
+      "seen": "2026-09-07T13:34:27.008Z",
+      "position": "2026-09-07T05:04:31.159Z",
+      "precision": 14,
+      "role": "CLIENT"
+    },
+    {
+      "id": "!433f00b8",
+      "name": "EntropicFlows - HX01",
+      "xy": [
+        -78.4728064,
+        36.4249088
+      ],
+      "seen": "2026-09-05T08:30:04.112Z",
+      "position": "2026-09-05T08:30:04.111Z",
+      "precision": null,
+      "role": "CLIENT"
+    },
+    {
+      "id": "!f6faddb8",
+      "name": "Shiloh Home Node 1",
+      "xy": [
+        -81.9724288,
+        35.258368
+      ],
+      "seen": "2026-09-09T04:29:21.709Z",
+      "position": "2026-09-08T21:24:25.077Z",
+      "precision": 14,
+      "role": "CLIENT"
+    },
+    {
+      "id": "!53e4a315",
+      "name": "Shiloh Base Node",
+      "xy": [
+        -81.9724288,
+        35.258368
+      ],
+      "seen": "2026-09-09T01:51:13.699Z",
+      "position": "2026-09-01T23:38:37.811Z",
+      "precision": null,
+      "role": "CLIENT"
+    },
+    {
+      "id": "!1ba14f7c",
+      "name": "Shiloh Home Node 2",
+      "xy": [
+        -81.9724288,
+        35.258368
+      ],
+      "seen": "2026-09-09T04:30:34.970Z",
+      "position": "2026-09-09T03:58:00.687Z",
+      "precision": 13,
+      "role": "CLIENT"
+    },
+    {
+      "id": "!433d8f20",
+      "name": "KC4 | Monitor 3",
+      "xy": [
+        -80.6617088,
+        35.1535104
+      ],
+      "seen": "2026-09-09T01:47:56.469Z",
+      "position": "2026-09-08T20:25:27.481Z",
+      "precision": null,
+      "role": "CLIENT"
+    },
+    {
+      "id": "!5906913a",
+      "name": "Solar Home 913a",
+      "xy": [
+        -78.9839872,
+        36.1496576
+      ],
+      "seen": "2026-09-04T11:12:32.897Z",
+      "position": "2026-09-04T10:32:20.520Z",
+      "precision": 13,
+      "role": "CLIENT"
+    },
+    {
+      "id": "!1e6cbc23",
+      "name": "Kd4jwf van",
+      "xy": [
+        -78.5645568,
+        36.306944
+      ],
+      "seen": "2026-09-03T00:49:42.278Z",
+      "position": "2026-09-03T00:49:42.277Z",
+      "precision": 13,
+      "role": "CLIENT"
+    },
+    {
+      "id": "!eb38fcbb",
+      "name": "Sumter Tower Pi [SCMesh.us]",
+      "xy": [
+        -80.3618816,
+        33.9197952
+      ],
+      "seen": "2026-09-02T06:58:20.511Z",
+      "position": "2026-09-02T06:58:20.510Z",
+      "precision": null,
+      "role": null
+    },
+    {
+      "id": "!e75ad6ca",
+      "name": "T 600 SL",
+      "xy": [
+        -79.8244864,
+        34.1458944
+      ],
+      "seen": "2026-09-02T05:53:24.554Z",
+      "position": "2026-09-02T05:53:24.553Z",
+      "precision": null,
+      "role": "ROUTER"
+    },
+    {
+      "id": "!ae55bc74",
+      "name": "TheAsian T1000 [scmesh.us]",
+      "xy": [
+        -80.379904,
+        33.9279872
+      ],
+      "seen": "2026-09-06T06:03:04.872Z",
+      "position": "2026-09-06T06:03:04.871Z",
+      "precision": null,
+      "role": "CLIENT"
+    },
+    {
+      "id": "!dd880d49",
+      "name": "KF8MC FLOCK CAM",
+      "xy": [
+        -80.0784384,
+        34.4129536
+      ],
+      "seen": "2026-09-03T11:59:07.163Z",
+      "position": "2026-09-03T11:59:07.162Z",
+      "precision": null,
+      "role": "CLIENT"
+    },
+    {
+      "id": "!47459379",
+      "name": "Icarus Mobile ",
+      "xy": [
+        -82.444288,
+        35.4680832
+      ],
+      "seen": "2026-09-02T14:51:19.512Z",
+      "position": "2026-09-02T14:51:19.511Z",
+      "precision": 13,
+      "role": "CLIENT"
+    },
+    {
+      "id": "!9124a3a7",
+      "name": "ATLAVOX TG01 a3a7",
+      "xy": [
+        -78.9839872,
+        35.8875136
+      ],
+      "seen": "2026-09-09T02:34:04.971Z",
+      "position": "2026-09-09T02:26:01.694Z",
+      "precision": 13,
+      "role": "TRACKER"
+    },
+    {
+      "id": "!e9f70497",
+      "name": "Meshtastic 0497",
+      "xy": [
+        -78.9184512,
+        35.7433344
+      ],
+      "seen": "2026-09-06T16:35:51.382Z",
+      "position": "2026-09-06T16:35:51.381Z",
+      "precision": 14,
+      "role": "CLIENT"
+    },
+    {
+      "id": "!4357e8a4",
+      "name": "KG4EDY Portable",
+      "xy": [
+        -78.6038784,
+        36.3462656
+      ],
+      "seen": "2026-09-03T10:15:19.728Z",
+      "position": "2026-09-03T10:15:19.728Z",
+      "precision": 14,
+      "role": "CLIENT"
+    },
+    {
+      "id": "!cbbc0653",
+      "name": "Hthinknode",
+      "xy": [
+        -75.6678656,
+        36.0316928
+      ],
+      "seen": "2026-09-09T02:18:43.220Z",
+      "position": "2026-09-09T02:05:49.033Z",
+      "precision": 14,
+      "role": "CLIENT"
+    },
+    {
+      "id": "!4357fe68",
+      "name": "KG4EDY Mobile",
+      "xy": [
+        -78.6038784,
+        36.3200512
+      ],
+      "seen": "2026-09-08T00:41:20.403Z",
+      "position": "2026-09-08T00:41:20.402Z",
+      "precision": 14,
+      "role": "CLIENT"
+    },
+    {
+      "id": "!4357ebb4",
+      "name": "KG4EDY AUXC",
+      "xy": [
+        -78.5958126,
+        36.332917
+      ],
+      "seen": "2026-09-03T10:06:29.521Z",
+      "position": "2026-09-03T08:30:50.793Z",
+      "precision": 14,
+      "role": "CLIENT"
+    },
+    {
+      "id": "!99bbe21c",
+      "name": "KG4EDY Ranger",
+      "xy": [
+        -78.6038784,
+        36.3200512
+      ],
+      "seen": "2026-09-03T01:01:13.508Z",
+      "position": "2026-09-03T00:38:16.419Z",
+      "precision": 14,
+      "role": "CLIENT"
+    },
+    {
+      "id": "!9e7563c0",
+      "name": "N0WXR-1 Fort Mill SC [NCMesh.net]",
+      "xy": [
+        -80.9172992,
+        35.0552064
+      ],
+      "seen": "2026-09-09T04:22:13.012Z",
+      "position": "2026-09-08T07:09:24.454Z",
+      "precision": null,
+      "role": "CLIENT"
+    },
+    {
+      "id": "!54ceaad3",
+      "name": "N0WXR-2 Chris",
+      "xy": [
+        -80.9107456,
+        35.06176
+      ],
+      "seen": "2026-09-09T04:21:47.895Z",
+      "position": "2026-09-09T04:21:47.894Z",
+      "precision": null,
+      "role": "CLIENT"
+    },
+    {
       "id": "!f6828a45",
       "name": "SuperDave solar node p1",
       "xy": [
@@ -117,6 +3297,450 @@
       ],
       "seen": "2026-09-08T22:36:58.731Z",
       "position": "2026-09-08T22:36:58.730Z",
+      "precision": null,
+      "role": "CLIENT"
+    },
+    {
+      "id": "!651970fb",
+      "name": "FV Outdoor Node",
+      "xy": [
+        -78.757888,
+        35.602432
+      ],
+      "seen": "2026-09-03T18:12:40.778Z",
+      "position": "2026-09-03T18:12:40.777Z",
+      "precision": null,
+      "role": null
+    },
+    {
+      "id": "!402ea4d7",
+      "name": "Pocky Mobile 2, discord.gg/floridamesh/",
+      "xy": [
+        -78.2319616,
+        36.0431616
+      ],
+      "seen": "2026-09-03T13:23:17.676Z",
+      "position": "2026-09-03T13:23:17.675Z",
+      "precision": null,
+      "role": "CLIENT"
+    },
+    {
+      "id": "!3a15ec4b",
+      "name": "1W Tree Node",
+      "xy": [
+        -82.3984128,
+        35.2387072
+      ],
+      "seen": "2026-09-06T02:15:59.547Z",
+      "position": "2026-09-05T23:20:28.039Z",
+      "precision": 14,
+      "role": null
+    },
+    {
+      "id": "!6985bffc",
+      "name": "DieselDad v4",
+      "xy": [
+        -80.6486016,
+        36.5559808
+      ],
+      "seen": "2026-09-09T04:26:25.461Z",
+      "position": "2026-09-09T03:46:59.216Z",
+      "precision": 14,
+      "role": "CLIENT_MUTE"
+    },
+    {
+      "id": "!a262b499",
+      "name": "DieselDad Rooftop Solar",
+      "xy": [
+        -80.6617088,
+        36.569088
+      ],
+      "seen": "2026-09-09T03:55:23.341Z",
+      "position": "2026-09-09T03:47:32.927Z",
+      "precision": 13,
+      "role": null
+    },
+    {
+      "id": "!d87f79cc",
+      "name": "ACRS Solar Node #3",
+      "xy": [
+        -80.9631744,
+        36.4773376
+      ],
+      "seen": "2026-09-09T04:25:41.654Z",
+      "position": "2026-09-09T04:25:41.653Z",
+      "precision": null,
+      "role": null
+    },
+    {
+      "id": "!6c594288",
+      "name": "KK4LNA Mobile 4288",
+      "xy": [
+        -80.9631744,
+        36.4773376
+      ],
+      "seen": "2026-09-09T02:11:52.091Z",
+      "position": "2026-09-09T02:11:52.090Z",
+      "precision": null,
+      "role": "CLIENT"
+    },
+    {
+      "id": "!a0ccc508",
+      "name": "Meshtastic c508",
+      "xy": [
+        -78.9839872,
+        36.1496576
+      ],
+      "seen": "2026-09-04T11:12:32.901Z",
+      "position": "2026-09-04T02:36:29.927Z",
+      "precision": null,
+      "role": "CLIENT"
+    },
+    {
+      "id": "!4b78db4e",
+      "name": "KK4LNA GVML Solar Node #1 [NCMesh.net]",
+      "xy": [
+        -80.9762816,
+        36.4642304
+      ],
+      "seen": "2026-09-09T04:26:25.464Z",
+      "position": "2026-09-09T04:26:25.463Z",
+      "precision": null,
+      "role": null
+    },
+    {
+      "id": "!a2e22808",
+      "name": "W4TVJ 2808",
+      "xy": [
+        -81.9462144,
+        36.5428736
+      ],
+      "seen": "2026-09-07T18:08:56.302Z",
+      "position": "2026-09-07T08:40:18.028Z",
+      "precision": null,
+      "role": null
+    },
+    {
+      "id": "!2d40db9c",
+      "name": "KK4LNA - EDC2",
+      "xy": [
+        -80.9631744,
+        36.4773376
+      ],
+      "seen": "2026-09-09T01:57:44.514Z",
+      "position": "2026-09-08T19:26:27.167Z",
+      "precision": null,
+      "role": "CLIENT"
+    },
+    {
+      "id": "!330eb4bd",
+      "name": "ACRS Solar Node #1",
+      "xy": [
+        -80.9631744,
+        36.4773376
+      ],
+      "seen": "2026-09-09T01:51:18.417Z",
+      "position": "2026-09-08T18:51:35.387Z",
+      "precision": null,
+      "role": null
+    },
+    {
+      "id": "!433da200",
+      "name": "N4LLZ a200",
+      "xy": [
+        -78.5514496,
+        35.71712
+      ],
+      "seen": "2026-09-04T16:34:56.393Z",
+      "position": "2026-09-04T16:34:56.392Z",
+      "precision": null,
+      "role": "CLIENT"
+    },
+    {
+      "id": "!84609ee",
+      "name": "mindlesstux T1000E [NCMesh.net]",
+      "xy": [
+        -78.528512,
+        35.9694336
+      ],
+      "seen": "2026-09-09T03:09:13.848Z",
+      "position": "2026-09-09T01:45:31.250Z",
+      "precision": null,
+      "role": "CLIENT"
+    },
+    {
+      "id": "!8c039d7",
+      "name": "KK4LNA - EDC",
+      "xy": [
+        -80.9631744,
+        36.4773376
+      ],
+      "seen": "2026-09-08T15:56:01.016Z",
+      "position": "2026-09-08T15:56:01.016Z",
+      "precision": null,
+      "role": "CLIENT_MUTE"
+    },
+    {
+      "id": "!1ba38364",
+      "name": "KODerf8364",
+      "xy": [
+        -80.5699584,
+        35.3501184
+      ],
+      "seen": "2026-09-09T01:30:22.093Z",
+      "position": "2026-09-06T14:30:10.323Z",
+      "precision": 14,
+      "role": "CLIENT_MUTE"
+    },
+    {
+      "id": "!8cab248f",
+      "name": "Meshtastic NC Taco",
+      "xy": [
+        -78.839808,
+        35.5336192
+      ],
+      "seen": "2026-09-08T21:54:18.971Z",
+      "position": "2026-09-05T01:51:28.217Z",
+      "precision": 14,
+      "role": "CLIENT"
+    },
+    {
+      "id": "!f6624b30",
+      "name": "KS4XQ 4b30",
+      "xy": [
+        -82.5950208,
+        34.766848
+      ],
+      "seen": "2026-09-07T09:22:11.967Z",
+      "position": "2026-09-07T09:22:11.966Z",
+      "precision": null,
+      "role": "CLIENT"
+    },
+    {
+      "id": "!d5e58fd9",
+      "name": "Arcmore Base",
+      "xy": [
+        -82.7588608,
+        34.8913664
+      ],
+      "seen": "2026-09-09T03:54:41.715Z",
+      "position": "2026-09-09T03:54:41.714Z",
+      "precision": null,
+      "role": null
+    },
+    {
+      "id": "!6984be98",
+      "name": "PBW-HellBox",
+      "xy": [
+        -82.5556992,
+        34.8454912
+      ],
+      "seen": "2026-09-09T04:04:39.073Z",
+      "position": "2026-09-09T04:04:39.072Z",
+      "precision": null,
+      "role": "CLIENT_MUTE"
+    },
+    {
+      "id": "!699c52f0",
+      "name": "Trinity Base",
+      "xy": [
+        -81.7102848,
+        35.258368
+      ],
+      "seen": "2026-09-09T04:29:26.537Z",
+      "position": "2026-09-09T04:12:08.434Z",
+      "precision": 13,
+      "role": "CLIENT"
+    },
+    {
+      "id": "!16d6c479",
+      "name": "Travelers Rest Router",
+      "xy": [
+        -82.3918592,
+        35.0486528
+      ],
+      "seen": "2026-09-09T04:14:47.202Z",
+      "position": "2026-09-08T23:21:11.255Z",
+      "precision": null,
+      "role": null
+    },
+    {
+      "id": "!23b08d70",
+      "name": "KQ4PDK WRCB654",
+      "xy": [
+        -80.6158336,
+        35.3697792
+      ],
+      "seen": "2026-09-09T04:20:35.628Z",
+      "position": "2026-09-09T04:20:35.626Z",
+      "precision": 15,
+      "role": "CLIENT"
+    },
+    {
+      "id": "!439991c",
+      "name": "Vista 991",
+      "xy": [
+        -80.60928,
+        35.1535104
+      ],
+      "seen": "2026-09-09T02:43:11.072Z",
+      "position": "2026-09-09T02:43:11.071Z",
+      "precision": null,
+      "role": "CLIENT"
+    },
+    {
+      "id": "!863d6d44",
+      "name": "thing#1 Big Brother ",
+      "xy": [
+        -82.5884672,
+        35.5598336
+      ],
+      "seen": "2026-09-05T18:24:41.793Z",
+      "position": "2026-09-05T18:24:41.792Z",
+      "precision": 14,
+      "role": "CLIENT"
+    },
+    {
+      "id": "!41aa162",
+      "name": "ACRS Drone M30T",
+      "xy": [
+        -80.9631744,
+        36.4773376
+      ],
+      "seen": "2026-09-05T19:49:51.678Z",
+      "position": "2026-09-05T16:29:06.803Z",
+      "precision": null,
+      "role": "CLIENT"
+    },
+    {
+      "id": "!16c3f750",
+      "name": "Megamind Base",
+      "xy": [
+        -82.2214656,
+        34.8258304
+      ],
+      "seen": "2026-09-06T21:43:40.125Z",
+      "position": "2026-09-06T21:43:40.124Z",
+      "precision": null,
+      "role": "CLIENT"
+    },
+    {
+      "id": "!2ee2f34",
+      "name": "NA4BB Casey 1",
+      "xy": [
+        -82.444288,
+        34.73408
+      ],
+      "seen": "2026-09-08T18:26:00.005Z",
+      "position": "2026-09-08T18:26:00.004Z",
+      "precision": null,
+      "role": "CLIENT"
+    },
+    {
+      "id": "!1ba1f9dc",
+      "name": "W5UGD Nodey By Nature",
+      "xy": [
+        -82.2542336,
+        34.7799552
+      ],
+      "seen": "2026-09-07T20:45:21.506Z",
+      "position": "2026-09-07T20:45:21.505Z",
+      "precision": null,
+      "role": "CLIENT"
+    },
+    {
+      "id": "!615f026e",
+      "name": "Meshtastic 026e🪓",
+      "xy": [
+        -82.3394304,
+        35.6253696
+      ],
+      "seen": "2026-09-08T00:41:53.741Z",
+      "position": "2026-09-08T00:41:53.740Z",
+      "precision": 13,
+      "role": "CLIENT"
+    },
+    {
+      "id": "!ef41338b",
+      "name": "WEM0 wio",
+      "xy": [
+        -82.771968,
+        35.1141888
+      ],
+      "seen": "2026-09-06T23:39:29.278Z",
+      "position": "2026-09-06T22:45:09.859Z",
+      "precision": 14,
+      "role": "CLIENT"
+    },
+    {
+      "id": "!59653e48",
+      "name": "KZ4 XX Solar Jonas Ridge ",
+      "xy": [
+        -81.9462144,
+        35.913728
+      ],
+      "seen": "2026-09-07T06:38:15.286Z",
+      "position": "2026-09-07T06:38:15.284Z",
+      "precision": 12,
+      "role": "CLIENT"
+    },
+    {
+      "id": "!68a5339",
+      "name": "PGTree5339",
+      "xy": [
+        -79.7704192,
+        35.9923712
+      ],
+      "seen": "2026-09-09T03:38:58.579Z",
+      "position": "2026-09-09T02:13:03.270Z",
+      "precision": null,
+      "role": null
+    },
+    {
+      "id": "!757025dc",
+      "name": "Rolleiflex",
+      "xy": [
+        -80.7993344,
+        35.2124928
+      ],
+      "seen": "2026-09-08T09:15:25.976Z",
+      "position": "2026-09-08T09:15:25.975Z",
+      "precision": 15,
+      "role": "CLIENT"
+    },
+    {
+      "id": "!be1c216b",
+      "name": "ShortStop25",
+      "xy": [
+        -78.7218432,
+        35.782656
+      ],
+      "seen": "2026-09-09T04:32:22.589Z",
+      "position": "2026-09-09T04:32:22.588Z",
+      "precision": 13,
+      "role": "CLIENT"
+    },
+    {
+      "id": "!e0f6466c",
+      "name": "BlueBird T-Beam",
+      "xy": [
+        -78.6038784,
+        35.8744064
+      ],
+      "seen": "2026-09-09T00:44:28.608Z",
+      "position": "2026-09-08T20:26:38.350Z",
+      "precision": null,
+      "role": "CLIENT"
+    },
+    {
+      "id": "!f1a83b2c",
+      "name": "AK's T-deck",
+      "xy": [
+        -82.4967168,
+        34.996224
+      ],
+      "seen": "2026-09-09T04:29:51.116Z",
+      "position": "2026-09-09T04:13:36.484Z",
       "precision": null,
       "role": "CLIENT"
     }
