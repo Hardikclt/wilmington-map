@@ -1,0 +1,113 @@
+{
+  "retrieved": "2026-09-09T03:15:53.035Z",
+  "source": "https://ncmesh.net/map/",
+  "bounds": [
+    -78.3,
+    33.7,
+    -77.4,
+    34.7
+  ],
+  "checked": [
+    "https://meshmap.net/",
+    "https://meshtastic.liamcottle.net/",
+    "https://ncmesh.net/map/"
+  ],
+  "nodes": [
+    {
+      "id": "!63718199",
+      "name": "K4IRV-7",
+      "xy": [
+        -77.9354112,
+        34.1573632
+      ],
+      "seen": "2026-09-09T02:22:58.295Z",
+      "position": "2026-09-09T02:22:58.294Z",
+      "precision": 13,
+      "role": "CLIENT"
+    },
+    {
+      "id": "!1fc28ad1",
+      "name": "K4IRV -R",
+      "xy": [
+        -77.9354112,
+        34.1573632
+      ],
+      "seen": "2026-09-08T23:35:39.685Z",
+      "position": "2026-09-08T23:35:39.684Z",
+      "precision": 13,
+      "role": "CLIENT"
+    },
+    {
+      "id": "!9d39590",
+      "name": "Crypt MQTT",
+      "xy": [
+        -77.8829824,
+        34.1573632
+      ],
+      "seen": "2026-09-08T14:57:30.460Z",
+      "position": "2026-09-03T13:23:03.612Z",
+      "precision": null,
+      "role": "CLIENT"
+    },
+    {
+      "id": "!2eafa30",
+      "name": "Crypt Home MQTT",
+      "xy": [
+        -77.8829824,
+        34.209792
+      ],
+      "seen": "2026-09-08T18:53:56.318Z",
+      "position": "2026-09-06T20:54:53.109Z",
+      "precision": null,
+      "role": "CLIENT"
+    },
+    {
+      "id": "!abf9a4a7",
+      "name": "Max",
+      "xy": [
+        -77.4504448,
+        34.5636864
+      ],
+      "seen": "2026-09-07T22:44:56.224Z",
+      "position": "2026-09-07T22:44:56.223Z",
+      "precision": 14,
+      "role": "CLIENT"
+    },
+    {
+      "id": "!a1f1f320",
+      "name": "TLFMeshGateway",
+      "xy": [
+        -78.1058048,
+        34.3015424
+      ],
+      "seen": "2026-09-09T03:06:56.793Z",
+      "position": "2026-08-28T16:08:29.331Z",
+      "precision": null,
+      "role": "CLIENT_MUTE"
+    },
+    {
+      "id": "!b5e1d17",
+      "name": "TLFMesh1",
+      "xy": [
+        -78.1320192,
+        34.3015424
+      ],
+      "seen": "2026-09-09T02:18:19.634Z",
+      "position": "2026-08-28T11:49:08.121Z",
+      "precision": null,
+      "role": "CLIENT"
+    },
+    {
+      "id": "!f6828a45",
+      "name": "SuperDave solar node p1",
+      "xy": [
+        -78.1451264,
+        34.2622208
+      ],
+      "seen": "2026-09-08T22:36:58.731Z",
+      "position": "2026-09-08T22:36:58.730Z",
+      "precision": null,
+      "role": "CLIENT"
+    }
+  ]
+}
